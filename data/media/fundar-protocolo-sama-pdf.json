@@ -1,0 +1,79 @@
+{
+    "id": 25423,
+    "date": "2025-03-12T13:35:03",
+    "date_gmt": "2025-03-12T16:35:03",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2025/02/Fundar-Protocolo-SaMA-pdf.pdf"
+    },
+    "modified": "2025-03-12T13:35:03",
+    "modified_gmt": "2025-03-12T16:35:03",
+    "slug": "fundar-protocolo-sama-pdf",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/protocolo-para-la-estimacion-de-la-salud-mental-adolescente/fundar-protocolo-sama-pdf/",
+    "title": {
+        "rendered": "Fundar &#8211; Protocolo SaMA pdf"
+    },
+    "author": 14,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-25423",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2025/02/Fundar-Protocolo-SaMA-pdf.pdf'>Fundar - Protocolo SaMA pdf</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar &#8211; Protocolo SaMA pdf</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 553371,
+        "sizes": {}
+    },
+    "post": 25235,
+    "source_url": "https://fund.ar/wp-content/uploads/2025/02/Fundar-Protocolo-SaMA-pdf.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/25423"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/14"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=25423"
+            }
+        ]
+    }
+}

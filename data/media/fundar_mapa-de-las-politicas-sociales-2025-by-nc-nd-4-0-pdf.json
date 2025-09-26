@@ -1,0 +1,79 @@
+{
+    "id": 25647,
+    "date": "2025-05-15T16:57:49",
+    "date_gmt": "2025-05-15T19:57:49",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2025/05/Fundar_Mapa-de-las-politicas-sociales-2025-BY-NC-ND-4.0.pdf.pdf"
+    },
+    "modified": "2025-05-15T16:57:49",
+    "modified_gmt": "2025-05-15T19:57:49",
+    "slug": "fundar_mapa-de-las-politicas-sociales-2025-by-nc-nd-4-0-pdf",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/mapa-de-las-politicas-sociales-2025-continuidades-y-rupturas-durante-la-presidencia-de-javier-milei/fundar_mapa-de-las-politicas-sociales-2025-by-nc-nd-4-0-pdf/",
+    "title": {
+        "rendered": "Fundar_Mapa-de-las-politicas-sociales-2025-BY-NC-ND-4.0.pdf"
+    },
+    "author": 6,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-25647",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2025/05/Fundar_Mapa-de-las-politicas-sociales-2025-BY-NC-ND-4.0.pdf.pdf'>Fundar_Mapa-de-las-politicas-sociales-2025-BY-NC-ND-4.0.pdf</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Mapa-de-las-politicas-sociales-2025-BY-NC-ND-4.0.pdf</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 875588,
+        "sizes": {}
+    },
+    "post": 25573,
+    "source_url": "https://fund.ar/wp-content/uploads/2025/05/Fundar_Mapa-de-las-politicas-sociales-2025-BY-NC-ND-4.0.pdf.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/25647"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/6"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=25647"
+            }
+        ]
+    }
+}

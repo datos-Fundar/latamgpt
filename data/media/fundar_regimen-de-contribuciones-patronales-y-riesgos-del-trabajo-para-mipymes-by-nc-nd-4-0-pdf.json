@@ -1,0 +1,79 @@
+{
+    "id": 25396,
+    "date": "2025-03-11T18:01:59",
+    "date_gmt": "2025-03-11T21:01:59",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2025/02/Fundar_Regimen-de-contribuciones-patronales-y-riesgos-del-trabajo-para-MiPyMEs-BY-NC-ND-4.0.pdf.pdf"
+    },
+    "modified": "2025-03-11T18:01:59",
+    "modified_gmt": "2025-03-11T21:01:59",
+    "slug": "fundar_regimen-de-contribuciones-patronales-y-riesgos-del-trabajo-para-mipymes-by-nc-nd-4-0-pdf",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/regimen-de-contribuciones-patronales-y-riesgos-del-trabajo-para-mipymes/fundar_regimen-de-contribuciones-patronales-y-riesgos-del-trabajo-para-mipymes-by-nc-nd-4-0-pdf/",
+    "title": {
+        "rendered": "Fundar_Regimen-de-contribuciones-patronales-y-riesgos-del-trabajo-para-MiPyMEs-BY-NC-ND-4.0.pdf"
+    },
+    "author": 14,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-25396",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2025/02/Fundar_Regimen-de-contribuciones-patronales-y-riesgos-del-trabajo-para-MiPyMEs-BY-NC-ND-4.0.pdf.pdf'>Fundar_Regimen-de-contribuciones-patronales-y-riesgos-del-trabajo-para-MiPyMEs-BY-NC-ND-4.0.pdf</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Regimen-de-contribuciones-patronales-y-riesgos-del-trabajo-para-MiPyMEs-BY-NC-ND-4.0.pdf</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 692082,
+        "sizes": {}
+    },
+    "post": 24744,
+    "source_url": "https://fund.ar/wp-content/uploads/2025/02/Fundar_Regimen-de-contribuciones-patronales-y-riesgos-del-trabajo-para-MiPyMEs-BY-NC-ND-4.0.pdf.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/25396"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/14"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=25396"
+            }
+        ]
+    }
+}
