@@ -1,0 +1,79 @@
+{
+    "id": 9607,
+    "date": "2023-09-08T17:05:14",
+    "date_gmt": "2023-09-08T20:05:14",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/09/Fundar_Desarrollo-de-proveedores-para-el-sector-minero.pdf"
+    },
+    "modified": "2023-09-08T17:05:14",
+    "modified_gmt": "2023-09-08T20:05:14",
+    "slug": "fundar_desarrollo-de-proveedores-para-el-sector-minero",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/desarrollo-de-proveedores-para-el-sector-minero/fundar_desarrollo-de-proveedores-para-el-sector-minero/",
+    "title": {
+        "rendered": "Fundar_Desarrollo-de-proveedores-para-el-sector minero"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-9607",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/09/Fundar_Desarrollo-de-proveedores-para-el-sector-minero.pdf'>Fundar_Desarrollo-de-proveedores-para-el-sector minero</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Desarrollo-de-proveedores-para-el-sector minero</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 666158,
+        "sizes": {}
+    },
+    "post": 9605,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/09/Fundar_Desarrollo-de-proveedores-para-el-sector-minero.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/9607"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=9607"
+            }
+        ]
+    }
+}

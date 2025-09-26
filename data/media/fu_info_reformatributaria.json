@@ -1,0 +1,79 @@
+{
+    "id": 14036,
+    "date": "2024-03-12T09:45:20",
+    "date_gmt": "2024-03-12T12:45:20",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2024/03/FU_Info_ReformaTributaria.pdf"
+    },
+    "modified": "2024-03-12T09:45:20",
+    "modified_gmt": "2024-03-12T12:45:20",
+    "slug": "fu_info_reformatributaria",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/inteligencia-artificial-y-educacion/fu_info_reformatributaria/",
+    "title": {
+        "rendered": "FU_Info_ReformaTributaria"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-14036",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2024/03/FU_Info_ReformaTributaria.pdf'>FU_Info_ReformaTributaria</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>FU_Info_ReformaTributaria</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 218495,
+        "sizes": {}
+    },
+    "post": 14014,
+    "source_url": "https://fund.ar/wp-content/uploads/2024/03/FU_Info_ReformaTributaria.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/14036"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=14036"
+            }
+        ]
+    }
+}

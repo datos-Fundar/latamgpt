@@ -1,0 +1,107 @@
+{
+    "id": 1313,
+    "date": "2021-11-16T13:28:18",
+    "date_gmt": "2021-11-16T16:28:18",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2021/11/El_rastreo_de_contactos_estrechos_en_la_Argentina_Fundar.pdf"
+    },
+    "modified": "2021-11-16T13:29:12",
+    "modified_gmt": "2021-11-16T16:29:12",
+    "slug": "el_rastreo_de_contactos_estrechos_en_la_argentina_fundar",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/rastreo-contactos/el_rastreo_de_contactos_estrechos_en_la_argentina_fundar/",
+    "title": {
+        "rendered": "El_rastreo_de_contactos_estrechos_en_la_Argentina_Fundar"
+    },
+    "author": 8,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-1313",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2021/11/El_rastreo_de_contactos_estrechos_en_la_Argentina_Fundar.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2021/11/El_rastreo_de_contactos_estrechos_en_la_Argentina_Fundar-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n<p>Un an\u00e1lisis de su<br />\nimplementaci\u00f3n en<br />\ndoce provincias</p>\n"
+    },
+    "caption": {
+        "rendered": "<p>El rastreo de contactos<br />\nestrechos en la Argentina</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "El_rastreo_de_contactos_estrechos_en_la_Argentina_Fundar-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/11/El_rastreo_de_contactos_estrechos_en_la_Argentina_Fundar-pdf.jpg"
+            },
+            "medium": {
+                "file": "El_rastreo_de_contactos_estrechos_en_la_Argentina_Fundar-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/11/El_rastreo_de_contactos_estrechos_en_la_Argentina_Fundar-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "El_rastreo_de_contactos_estrechos_en_la_Argentina_Fundar-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/11/El_rastreo_de_contactos_estrechos_en_la_Argentina_Fundar-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "El_rastreo_de_contactos_estrechos_en_la_Argentina_Fundar-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/11/El_rastreo_de_contactos_estrechos_en_la_Argentina_Fundar-pdf-106x150.jpg"
+            }
+        }
+    },
+    "post": 1310,
+    "source_url": "https://fund.ar/wp-content/uploads/2021/11/El_rastreo_de_contactos_estrechos_en_la_Argentina_Fundar.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/1313"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/8"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=1313"
+            }
+        ]
+    }
+}

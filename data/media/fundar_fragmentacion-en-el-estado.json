@@ -1,0 +1,111 @@
+{
+    "id": 6228,
+    "date": "2022-12-01T10:56:17",
+    "date_gmt": "2022-12-01T13:56:17",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2022/12/Fundar_Fragmentacion-en-el-Estado.pdf"
+    },
+    "modified": "2022-12-01T10:56:17",
+    "modified_gmt": "2022-12-01T13:56:17",
+    "slug": "fundar_fragmentacion-en-el-estado",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/fragmentacion-y-superposiciones-en-las-estructuras-del-estado/fundar_fragmentacion-en-el-estado/",
+    "title": {
+        "rendered": "Fundar_Fragmentacion en el Estado"
+    },
+    "author": 5,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-6228",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2022/12/Fundar_Fragmentacion-en-el-Estado.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2022/12/Fundar_Fragmentacion-en-el-Estado-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Fundar_Fragmentacion-en-el-Estado-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/12/Fundar_Fragmentacion-en-el-Estado-pdf.jpg"
+            },
+            "medium": {
+                "file": "Fundar_Fragmentacion-en-el-Estado-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "filesize": 10052,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/12/Fundar_Fragmentacion-en-el-Estado-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Fundar_Fragmentacion-en-el-Estado-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "filesize": 44743,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/12/Fundar_Fragmentacion-en-el-Estado-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Fundar_Fragmentacion-en-el-Estado-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "filesize": 5077,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/12/Fundar_Fragmentacion-en-el-Estado-pdf-106x150.jpg"
+            }
+        },
+        "filesize": 1039395
+    },
+    "post": 6226,
+    "source_url": "https://fund.ar/wp-content/uploads/2022/12/Fundar_Fragmentacion-en-el-Estado.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/6228"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/5"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=6228"
+            }
+        ]
+    }
+}

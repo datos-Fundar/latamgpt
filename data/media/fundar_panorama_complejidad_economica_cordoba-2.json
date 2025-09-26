@@ -1,0 +1,79 @@
+{
+    "id": 7754,
+    "date": "2023-05-09T12:23:36",
+    "date_gmt": "2023-05-09T15:23:36",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/04/Fundar_Panorama_Complejidad_Economica_Cordoba-1.pdf"
+    },
+    "modified": "2023-05-09T12:23:36",
+    "modified_gmt": "2023-05-09T15:23:36",
+    "slug": "fundar_panorama_complejidad_economica_cordoba-2",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/panorama-de-la-complejidad-economica-de-la-provincia-de-cordoba/fundar_panorama_complejidad_economica_cordoba-2/",
+    "title": {
+        "rendered": "Fundar_Panorama_Complejidad_Economica_Cordoba"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-7754",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/04/Fundar_Panorama_Complejidad_Economica_Cordoba-1.pdf'>Fundar_Panorama_Complejidad_Economica_Cordoba</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Panorama_Complejidad_Economica_Cordoba</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 585360,
+        "sizes": {}
+    },
+    "post": 7470,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/04/Fundar_Panorama_Complejidad_Economica_Cordoba-1.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/7754"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=7754"
+            }
+        ]
+    }
+}

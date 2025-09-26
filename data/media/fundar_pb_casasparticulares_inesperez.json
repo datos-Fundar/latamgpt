@@ -1,0 +1,111 @@
+{
+    "id": 3832,
+    "date": "2022-09-19T18:15:52",
+    "date_gmt": "2022-09-19T21:15:52",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2022/09/Fundar_PB_CasasParticulares_InesPerez.pdf"
+    },
+    "modified": "2022-09-19T18:15:52",
+    "modified_gmt": "2022-09-19T21:15:52",
+    "slug": "fundar_pb_casasparticulares_inesperez",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/el-trabajo-en-casas-particulares/fundar_pb_casasparticulares_inesperez/",
+    "title": {
+        "rendered": "Fundar_PB_CasasParticulares_InesPerez"
+    },
+    "author": 11,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-3832",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2022/09/Fundar_PB_CasasParticulares_InesPerez.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2022/09/Fundar_PB_CasasParticulares_InesPerez-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Fundar_PB_CasasParticulares_InesPerez-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_PB_CasasParticulares_InesPerez-pdf.jpg"
+            },
+            "medium": {
+                "file": "Fundar_PB_CasasParticulares_InesPerez-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "filesize": 18591,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_PB_CasasParticulares_InesPerez-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Fundar_PB_CasasParticulares_InesPerez-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "filesize": 158971,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_PB_CasasParticulares_InesPerez-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Fundar_PB_CasasParticulares_InesPerez-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "filesize": 6910,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_PB_CasasParticulares_InesPerez-pdf-106x150.jpg"
+            }
+        },
+        "filesize": 153820
+    },
+    "post": 3825,
+    "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_PB_CasasParticulares_InesPerez.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/3832"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/11"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=3832"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": 25360,
+    "date": "2025-03-11T12:42:00",
+    "date_gmt": "2025-03-11T15:42:00",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2025/02/Fundar_El-futuro-de-los-cuidados_CC-BY-NC-ND-4.0-1.pdf"
+    },
+    "modified": "2025-03-11T12:42:00",
+    "modified_gmt": "2025-03-11T15:42:00",
+    "slug": "fundar_el-futuro-de-los-cuidados_cc-by-nc-nd-4-0",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/el-futuro-de-los-cuidados-una-herramienta-para-la-adaptacion-a-la-transicion-demografica/fundar_el-futuro-de-los-cuidados_cc-by-nc-nd-4-0/",
+    "title": {
+        "rendered": "Fundar_El-futuro-de-los-cuidados_CC-BY-NC-ND-4.0"
+    },
+    "author": 14,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-25360",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2025/02/Fundar_El-futuro-de-los-cuidados_CC-BY-NC-ND-4.0-1.pdf'>Fundar_El-futuro-de-los-cuidados_CC-BY-NC-ND-4.0</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_El-futuro-de-los-cuidados_CC-BY-NC-ND-4.0</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 5425951,
+        "sizes": {}
+    },
+    "post": 24966,
+    "source_url": "https://fund.ar/wp-content/uploads/2025/02/Fundar_El-futuro-de-los-cuidados_CC-BY-NC-ND-4.0-1.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/25360"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/14"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=25360"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": 7862,
+    "date": "2023-05-15T13:28:58",
+    "date_gmt": "2023-05-15T16:28:58",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/05/FU_PB_Mineria_v3.pdf"
+    },
+    "modified": "2023-05-15T13:28:58",
+    "modified_gmt": "2023-05-15T16:28:58",
+    "slug": "fu_pb_mineria_v3",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/desarrollar-el-potencial-minero-argentino/fu_pb_mineria_v3/",
+    "title": {
+        "rendered": "FU_PB_Mineria_v3"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-7862",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/05/FU_PB_Mineria_v3.pdf'>FU_PB_Mineria_v3</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>FU_PB_Mineria_v3</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 152499,
+        "sizes": {}
+    },
+    "post": 7860,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/05/FU_PB_Mineria_v3.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/7862"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=7862"
+            }
+        ]
+    }
+}

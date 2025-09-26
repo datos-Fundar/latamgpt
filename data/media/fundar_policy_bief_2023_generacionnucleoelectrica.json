@@ -1,0 +1,79 @@
+{
+    "id": 9303,
+    "date": "2023-08-29T17:03:24",
+    "date_gmt": "2023-08-29T20:03:24",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/08/Fundar_Policy_bief_2023_GeneracionNucleoelectrica.pdf"
+    },
+    "modified": "2023-08-29T17:03:24",
+    "modified_gmt": "2023-08-29T20:03:24",
+    "slug": "fundar_policy_bief_2023_generacionnucleoelectrica",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/la-generacion-nucleoelectrica-en-argentina-y-el-mundo/fundar_policy_bief_2023_generacionnucleoelectrica/",
+    "title": {
+        "rendered": "Fundar_Policy_bief_2023_GeneracionNucleoelectrica"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-9303",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/08/Fundar_Policy_bief_2023_GeneracionNucleoelectrica.pdf'>Fundar_Policy_bief_2023_GeneracionNucleoelectrica</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Policy_bief_2023_GeneracionNucleoelectrica</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 107333,
+        "sizes": {}
+    },
+    "post": 9217,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/08/Fundar_Policy_bief_2023_GeneracionNucleoelectrica.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/9303"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=9303"
+            }
+        ]
+    }
+}

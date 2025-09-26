@@ -1,0 +1,107 @@
+{
+    "id": 1541,
+    "date": "2022-03-17T15:21:21",
+    "date_gmt": "2022-03-17T18:21:21",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2022/03/Policy_Brief_Coordinacion_Salarial.pdf"
+    },
+    "modified": "2022-03-17T15:21:21",
+    "modified_gmt": "2022-03-17T18:21:21",
+    "slug": "policy_brief_coordinacion_salarial",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/coordinacion-salarial-policy-brief/policy_brief_coordinacion_salarial/",
+    "title": {
+        "rendered": "Policy_Brief_Coordinacion_Salarial"
+    },
+    "author": 8,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-1541",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2022/03/Policy_Brief_Coordinacion_Salarial.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2022/03/Policy_Brief_Coordinacion_Salarial-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Policy_Brief_Coordinacion_Salarial-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/03/Policy_Brief_Coordinacion_Salarial-pdf.jpg"
+            },
+            "medium": {
+                "file": "Policy_Brief_Coordinacion_Salarial-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/03/Policy_Brief_Coordinacion_Salarial-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Policy_Brief_Coordinacion_Salarial-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/03/Policy_Brief_Coordinacion_Salarial-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Policy_Brief_Coordinacion_Salarial-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/03/Policy_Brief_Coordinacion_Salarial-pdf-106x150.jpg"
+            }
+        }
+    },
+    "post": 1535,
+    "source_url": "https://fund.ar/wp-content/uploads/2022/03/Policy_Brief_Coordinacion_Salarial.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/1541"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/8"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=1541"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": 7187,
+    "date": "2023-03-17T17:16:05",
+    "date_gmt": "2023-03-17T20:16:05",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/03/FU_DOC_literatura_liderazgos.pdf"
+    },
+    "modified": "2023-03-17T17:16:05",
+    "modified_gmt": "2023-03-17T20:16:05",
+    "slug": "fu_doc_literatura_liderazgos",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/una-revision-de-la-literatura-local-sobre-genero/fu_doc_literatura_liderazgos/",
+    "title": {
+        "rendered": "FU_DOC_literatura_liderazgos"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-7187",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/03/FU_DOC_literatura_liderazgos.pdf'>FU_DOC_literatura_liderazgos</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>FU_DOC_literatura_liderazgos</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 302682,
+        "sizes": {}
+    },
+    "post": 7177,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/03/FU_DOC_literatura_liderazgos.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/7187"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=7187"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": 23733,
+    "date": "2024-12-10T16:57:57",
+    "date_gmt": "2024-12-10T19:57:57",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2024/12/Fundar_Ingresos-populares-bajo-el-gobierno-de-Milei_CC-BY-NC-ND-4.0-1.pdf"
+    },
+    "modified": "2024-12-10T16:57:57",
+    "modified_gmt": "2024-12-10T19:57:57",
+    "slug": "fundar_ingresos-populares-bajo-el-gobierno-de-milei_cc-by-nc-nd-4-0",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/ingresos-populares-bajo-el-gobierno-de-milei/fundar_ingresos-populares-bajo-el-gobierno-de-milei_cc-by-nc-nd-4-0/",
+    "title": {
+        "rendered": "Fundar_Ingresos-populares-bajo-el-gobierno-de-Milei_CC-BY-NC-ND-4.0"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-23733",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2024/12/Fundar_Ingresos-populares-bajo-el-gobierno-de-Milei_CC-BY-NC-ND-4.0-1.pdf'>Fundar_Ingresos-populares-bajo-el-gobierno-de-Milei_CC-BY-NC-ND-4.0</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Ingresos-populares-bajo-el-gobierno-de-Milei_CC-BY-NC-ND-4.0</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 1129589,
+        "sizes": {}
+    },
+    "post": 23201,
+    "source_url": "https://fund.ar/wp-content/uploads/2024/12/Fundar_Ingresos-populares-bajo-el-gobierno-de-Milei_CC-BY-NC-ND-4.0-1.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/23733"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=23733"
+            }
+        ]
+    }
+}

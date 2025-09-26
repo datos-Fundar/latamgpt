@@ -1,0 +1,79 @@
+{
+    "id": 9024,
+    "date": "2023-07-31T17:14:43",
+    "date_gmt": "2023-07-31T20:14:43",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/07/Fundar_Politica_y_servicios_de_inteligencia.pdf"
+    },
+    "modified": "2023-07-31T17:14:43",
+    "modified_gmt": "2023-07-31T20:14:43",
+    "slug": "fundar_politica_y_servicios_de_inteligencia",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/politica-y-servicios-de-inteligencia/fundar_politica_y_servicios_de_inteligencia/",
+    "title": {
+        "rendered": "Fundar_Politica_y_servicios_de_inteligencia"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-9024",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/07/Fundar_Politica_y_servicios_de_inteligencia.pdf'>Fundar_Politica_y_servicios_de_inteligencia</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Politica_y_servicios_de_inteligencia</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 584390,
+        "sizes": {}
+    },
+    "post": 8989,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/07/Fundar_Politica_y_servicios_de_inteligencia.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/9024"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=9024"
+            }
+        ]
+    }
+}

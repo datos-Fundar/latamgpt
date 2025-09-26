@@ -1,0 +1,79 @@
+{
+    "id": 16433,
+    "date": "2024-05-13T14:50:35",
+    "date_gmt": "2024-05-13T17:50:35",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2024/05/Cias_Fundar_Monitor-de-barrios-populares_CC-BY-NC-ND-4.0.pdf"
+    },
+    "modified": "2024-05-13T14:50:35",
+    "modified_gmt": "2024-05-13T17:50:35",
+    "slug": "cias_fundar_monitor-de-barrios-populares_cc-by-nc-nd-4-0",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/monitor-de-barrios-populares/cias_fundar_monitor-de-barrios-populares_cc-by-nc-nd-4-0/",
+    "title": {
+        "rendered": "Cias_Fundar_Monitor-de-barrios-populares_CC-BY-NC-ND-4.0"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-16433",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2024/05/Cias_Fundar_Monitor-de-barrios-populares_CC-BY-NC-ND-4.0.pdf'>Cias_Fundar_Monitor-de-barrios-populares_CC-BY-NC-ND-4.0</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Cias_Fundar_Monitor-de-barrios-populares_CC-BY-NC-ND-4.0</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 659597,
+        "sizes": {}
+    },
+    "post": 16217,
+    "source_url": "https://fund.ar/wp-content/uploads/2024/05/Cias_Fundar_Monitor-de-barrios-populares_CC-BY-NC-ND-4.0.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/16433"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=16433"
+            }
+        ]
+    }
+}

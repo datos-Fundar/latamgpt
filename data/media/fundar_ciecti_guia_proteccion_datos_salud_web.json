@@ -1,0 +1,111 @@
+{
+    "id": 6866,
+    "date": "2023-03-02T18:02:02",
+    "date_gmt": "2023-03-02T21:02:02",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/03/Fundar_Ciecti_Guia_Proteccion_Datos_Salud_WEB.pdf"
+    },
+    "modified": "2023-03-02T18:02:02",
+    "modified_gmt": "2023-03-02T21:02:02",
+    "slug": "fundar_ciecti_guia_proteccion_datos_salud_web",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/guia-proteger-datos-en-salud/fundar_ciecti_guia_proteccion_datos_salud_web/",
+    "title": {
+        "rendered": "Fundar_Ciecti_Guia_Proteccion_Datos_Salud_WEB"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-6866",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/03/Fundar_Ciecti_Guia_Proteccion_Datos_Salud_WEB.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2023/03/Fundar_Ciecti_Guia_Proteccion_Datos_Salud_WEB-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Fundar_Ciecti_Guia_Proteccion_Datos_Salud_WEB-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2023/03/Fundar_Ciecti_Guia_Proteccion_Datos_Salud_WEB-pdf.jpg"
+            },
+            "medium": {
+                "file": "Fundar_Ciecti_Guia_Proteccion_Datos_Salud_WEB-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "filesize": 39486,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2023/03/Fundar_Ciecti_Guia_Proteccion_Datos_Salud_WEB-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Fundar_Ciecti_Guia_Proteccion_Datos_Salud_WEB-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "filesize": 81039,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2023/03/Fundar_Ciecti_Guia_Proteccion_Datos_Salud_WEB-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Fundar_Ciecti_Guia_Proteccion_Datos_Salud_WEB-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "filesize": 33904,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2023/03/Fundar_Ciecti_Guia_Proteccion_Datos_Salud_WEB-pdf-106x150.jpg"
+            }
+        },
+        "filesize": 4103706
+    },
+    "post": 6848,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/03/Fundar_Ciecti_Guia_Proteccion_Datos_Salud_WEB.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/6866"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=6866"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": 10327,
+    "date": "2023-10-20T14:27:14",
+    "date_gmt": "2023-10-20T17:27:14",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/10/Anexo-3-Parametros-para-la-estimacion-del-escenario-base-Asignacion-de-Liquidez.pdf"
+    },
+    "modified": "2023-10-20T14:27:14",
+    "modified_gmt": "2023-10-20T17:27:14",
+    "slug": "anexo-3-parametros-para-la-estimacion-del-escenario-base-asignacion-de-liquidez",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/anexo-3-parametros-para-la-estimacion-del-escenario-base-asignacion-de-liquidez/",
+    "title": {
+        "rendered": "Anexo 3 -Par\u00e1metros para la estimaci\u00f3n del escenario base Asignaci\u00f3n de Liquidez"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-10327",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/10/Anexo-3-Parametros-para-la-estimacion-del-escenario-base-Asignacion-de-Liquidez.pdf'>Anexo 3 -Par\u00e1metros para la estimaci\u00f3n del escenario base Asignaci\u00f3n de Liquidez</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Anexo 3 -Par\u00e1metros para la estimaci\u00f3n del escenario base Asignaci\u00f3n de Liquidez</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 77386,
+        "sizes": {}
+    },
+    "post": null,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/10/Anexo-3-Parametros-para-la-estimacion-del-escenario-base-Asignacion-de-Liquidez.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/10327"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=10327"
+            }
+        ]
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "id": 4842,
+    "date": "2022-10-18T17:53:49",
+    "date_gmt": "2022-10-18T20:53:49",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2022/10/Encrucijadas_litio_media_kit.pdf"
+    },
+    "modified": "2022-10-18T17:53:49",
+    "modified_gmt": "2022-10-18T20:53:49",
+    "slug": "encrucijadas_litio_media_kit",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/las-encrucijadas-del-litio/encrucijadas_litio_media_kit/",
+    "title": {
+        "rendered": "Encrucijadas_litio_media_kit"
+    },
+    "author": 5,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-4842",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2022/10/Encrucijadas_litio_media_kit.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2022/10/Encrucijadas_litio_media_kit-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Encrucijadas_litio_media_kit-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/10/Encrucijadas_litio_media_kit-pdf.jpg"
+            },
+            "medium": {
+                "file": "Encrucijadas_litio_media_kit-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "filesize": 74126,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/10/Encrucijadas_litio_media_kit-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Encrucijadas_litio_media_kit-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "filesize": 165285,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/10/Encrucijadas_litio_media_kit-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Encrucijadas_litio_media_kit-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "filesize": 64977,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/10/Encrucijadas_litio_media_kit-pdf-106x150.jpg"
+            }
+        },
+        "filesize": 1474524
+    },
+    "post": 4834,
+    "source_url": "https://fund.ar/wp-content/uploads/2022/10/Encrucijadas_litio_media_kit.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/4842"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/5"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=4842"
+            }
+        ]
+    }
+}

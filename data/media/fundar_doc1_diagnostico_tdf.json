@@ -1,0 +1,79 @@
+{
+    "id": 8133,
+    "date": "2023-06-13T18:21:29",
+    "date_gmt": "2023-06-13T21:21:29",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/06/Fundar_DOC1_Diagnostico_TDF.pdf"
+    },
+    "modified": "2023-06-13T18:21:29",
+    "modified_gmt": "2023-06-13T21:21:29",
+    "slug": "fundar_doc1_diagnostico_tdf",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/diagnostico-del-subregimen/fundar_doc1_diagnostico_tdf/",
+    "title": {
+        "rendered": "Fundar_DOC1_Diagnostico_TDF"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-8133",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/06/Fundar_DOC1_Diagnostico_TDF.pdf'>Fundar_DOC1_Diagnostico_TDF</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_DOC1_Diagnostico_TDF</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 584394,
+        "sizes": {}
+    },
+    "post": 8125,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/06/Fundar_DOC1_Diagnostico_TDF.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/8133"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=8133"
+            }
+        ]
+    }
+}

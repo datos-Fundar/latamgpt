@@ -1,0 +1,79 @@
+{
+    "id": 15347,
+    "date": "2024-04-23T11:50:21",
+    "date_gmt": "2024-04-23T14:50:21",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/04/Fundar_Argentina_bimonetaria_documento-1.pdf"
+    },
+    "modified": "2024-04-23T11:50:21",
+    "modified_gmt": "2024-04-23T14:50:21",
+    "slug": "fundar_argentina_bimonetaria_documento-3",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/argentina-bimonetaria/fundar_argentina_bimonetaria_documento-3/",
+    "title": {
+        "rendered": "Fundar_Argentina_bimonetaria_documento"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-15347",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/04/Fundar_Argentina_bimonetaria_documento-1.pdf'>Fundar_Argentina_bimonetaria_documento</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Argentina_bimonetaria_documento</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 617043,
+        "sizes": {}
+    },
+    "post": 7349,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/04/Fundar_Argentina_bimonetaria_documento-1.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/15347"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=15347"
+            }
+        ]
+    }
+}

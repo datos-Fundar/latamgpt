@@ -1,0 +1,79 @@
+{
+    "id": 14445,
+    "date": "2024-03-26T11:19:55",
+    "date_gmt": "2024-03-26T14:19:55",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2022/10/Fundar_Gobernanza_Socioamb_MineriaLitio-1.pdf"
+    },
+    "modified": "2024-03-26T11:19:55",
+    "modified_gmt": "2024-03-26T14:19:55",
+    "slug": "fundar_gobernanza_socioamb_minerialitio-3",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/gobernanza-socioambiental-mineria-de-litio/fundar_gobernanza_socioamb_minerialitio-3/",
+    "title": {
+        "rendered": "Fundar_Gobernanza_Socioamb_MineriaLitio"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-14445",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2022/10/Fundar_Gobernanza_Socioamb_MineriaLitio-1.pdf'>Fundar_Gobernanza_Socioamb_MineriaLitio</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Gobernanza_Socioamb_MineriaLitio</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 839637,
+        "sizes": {}
+    },
+    "post": 4693,
+    "source_url": "https://fund.ar/wp-content/uploads/2022/10/Fundar_Gobernanza_Socioamb_MineriaLitio-1.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/14445"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=14445"
+            }
+        ]
+    }
+}

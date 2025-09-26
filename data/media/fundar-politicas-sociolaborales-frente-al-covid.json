@@ -1,0 +1,107 @@
+{
+    "id": 1334,
+    "date": "2021-11-23T19:22:58",
+    "date_gmt": "2021-11-23T22:22:58",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2021/09/Fundar-Politicas-sociolaborales-frente-al-COVID.pdf"
+    },
+    "modified": "2021-11-23T19:22:58",
+    "modified_gmt": "2021-11-23T22:22:58",
+    "slug": "fundar-politicas-sociolaborales-frente-al-covid",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/coordinada-liberal-asistencialista-y-residual/fundar-politicas-sociolaborales-frente-al-covid/",
+    "title": {
+        "rendered": "Fundar &#8211; Politicas sociolaborales frente al COVID"
+    },
+    "author": 8,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-1334",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2021/09/Fundar-Politicas-sociolaborales-frente-al-COVID.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2021/09/Fundar-Politicas-sociolaborales-frente-al-COVID-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Fundar-Politicas-sociolaborales-frente-al-COVID-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/09/Fundar-Politicas-sociolaborales-frente-al-COVID-pdf.jpg"
+            },
+            "medium": {
+                "file": "Fundar-Politicas-sociolaborales-frente-al-COVID-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/09/Fundar-Politicas-sociolaborales-frente-al-COVID-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Fundar-Politicas-sociolaborales-frente-al-COVID-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/09/Fundar-Politicas-sociolaborales-frente-al-COVID-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Fundar-Politicas-sociolaborales-frente-al-COVID-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/09/Fundar-Politicas-sociolaborales-frente-al-COVID-pdf-106x150.jpg"
+            }
+        }
+    },
+    "post": 1150,
+    "source_url": "https://fund.ar/wp-content/uploads/2021/09/Fundar-Politicas-sociolaborales-frente-al-COVID.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/1334"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/8"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=1334"
+            }
+        ]
+    }
+}

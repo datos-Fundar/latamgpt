@@ -1,0 +1,79 @@
+{
+    "id": 10325,
+    "date": "2023-10-20T14:27:03",
+    "date_gmt": "2023-10-20T17:27:03",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/10/Anexo-2-Marco-conceptual-para-el-estudio-de-la-dinamica-de-los-pasivos-remunerados-del-BCRA-Asignacion-de-Liquidez.pdf"
+    },
+    "modified": "2023-10-20T14:27:03",
+    "modified_gmt": "2023-10-20T17:27:03",
+    "slug": "anexo-2-marco-conceptual-para-el-estudio-de-la-dinamica-de-los-pasivos-remunerados-del-bcra-asignacion-de-liquidez",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/anexo-2-marco-conceptual-para-el-estudio-de-la-dinamica-de-los-pasivos-remunerados-del-bcra-asignacion-de-liquidez/",
+    "title": {
+        "rendered": "Anexo 2- Marco conceptual para el estudio de la din\u00e1mica de los pasivos remunerados del BCRA &#8211; Asignaci\u00f3n de Liquidez"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-10325",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/10/Anexo-2-Marco-conceptual-para-el-estudio-de-la-dinamica-de-los-pasivos-remunerados-del-BCRA-Asignacion-de-Liquidez.pdf'>Anexo 2- Marco conceptual para el estudio de la din\u00e1mica de los pasivos remunerados del BCRA - Asignaci\u00f3n de Liquidez</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Anexo 2- Marco conceptual para el estudio de la din\u00e1mica de los pasivos remunerados del BCRA &#8211; Asignaci\u00f3n de Liquidez</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 88067,
+        "sizes": {}
+    },
+    "post": null,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/10/Anexo-2-Marco-conceptual-para-el-estudio-de-la-dinamica-de-los-pasivos-remunerados-del-BCRA-Asignacion-de-Liquidez.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/10325"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=10325"
+            }
+        ]
+    }
+}

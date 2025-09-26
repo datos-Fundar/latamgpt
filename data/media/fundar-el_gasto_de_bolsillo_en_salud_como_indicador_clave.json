@@ -1,0 +1,107 @@
+{
+    "id": 1722,
+    "date": "2022-05-30T13:16:36",
+    "date_gmt": "2022-05-30T16:16:36",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2022/05/Fundar-El_gasto_de_bolsillo_en_salud_como_indicador_clave.pdf"
+    },
+    "modified": "2022-05-30T13:16:36",
+    "modified_gmt": "2022-05-30T16:16:36",
+    "slug": "fundar-el_gasto_de_bolsillo_en_salud_como_indicador_clave",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/gasto-de-bolsillo-en-salud/fundar-el_gasto_de_bolsillo_en_salud_como_indicador_clave/",
+    "title": {
+        "rendered": "Fundar &#8211; El_gasto_de_bolsillo_en_salud_como_indicador_clave"
+    },
+    "author": 5,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-1722",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2022/05/Fundar-El_gasto_de_bolsillo_en_salud_como_indicador_clave.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2022/05/Fundar-El_gasto_de_bolsillo_en_salud_como_indicador_clave-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Fundar-El_gasto_de_bolsillo_en_salud_como_indicador_clave-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/05/Fundar-El_gasto_de_bolsillo_en_salud_como_indicador_clave-pdf.jpg"
+            },
+            "medium": {
+                "file": "Fundar-El_gasto_de_bolsillo_en_salud_como_indicador_clave-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/05/Fundar-El_gasto_de_bolsillo_en_salud_como_indicador_clave-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Fundar-El_gasto_de_bolsillo_en_salud_como_indicador_clave-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/05/Fundar-El_gasto_de_bolsillo_en_salud_como_indicador_clave-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Fundar-El_gasto_de_bolsillo_en_salud_como_indicador_clave-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/05/Fundar-El_gasto_de_bolsillo_en_salud_como_indicador_clave-pdf-106x150.jpg"
+            }
+        }
+    },
+    "post": 1721,
+    "source_url": "https://fund.ar/wp-content/uploads/2022/05/Fundar-El_gasto_de_bolsillo_en_salud_como_indicador_clave.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/1722"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/5"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=1722"
+            }
+        ]
+    }
+}

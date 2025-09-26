@@ -1,0 +1,79 @@
+{
+    "id": 8612,
+    "date": "2023-07-04T14:00:49",
+    "date_gmt": "2023-07-04T17:00:49",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/07/Fundar_DNEIG_Estudio_Caso-2.pdf"
+    },
+    "modified": "2023-07-04T14:00:49",
+    "modified_gmt": "2023-07-04T17:00:49",
+    "slug": "fundar_dneig_estudio_caso-3",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/un-poco-de-feminismo-horizontal-y-un-poco-de-patear-puertas/fundar_dneig_estudio_caso-3/",
+    "title": {
+        "rendered": "Fundar_DNEIG_Estudio_Caso"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-8612",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/07/Fundar_DNEIG_Estudio_Caso-2.pdf'>Fundar_DNEIG_Estudio_Caso</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_DNEIG_Estudio_Caso</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 522473,
+        "sizes": {}
+    },
+    "post": 8483,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/07/Fundar_DNEIG_Estudio_Caso-2.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/8612"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=8612"
+            }
+        ]
+    }
+}

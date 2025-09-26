@@ -1,0 +1,79 @@
+{
+    "id": 7997,
+    "date": "2023-05-30T11:21:16",
+    "date_gmt": "2023-05-30T14:21:16",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/05/Fundar_Conflictos_Consensos_Argentina_Pospandemia-1.pdf"
+    },
+    "modified": "2023-05-30T11:21:16",
+    "modified_gmt": "2023-05-30T14:21:16",
+    "slug": "fundar_conflictos_consensos_argentina_pospandemia",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/conflictos_consensos_en_argentina/fundar_conflictos_consensos_argentina_pospandemia/",
+    "title": {
+        "rendered": "Fundar_Conflictos_Consensos_Argentina_Pospandemia"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-7997",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/05/Fundar_Conflictos_Consensos_Argentina_Pospandemia-1.pdf'>Fundar_Conflictos_Consensos_Argentina_Pospandemia</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Conflictos_Consensos_Argentina_Pospandemia</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 224027,
+        "sizes": {}
+    },
+    "post": 7954,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/05/Fundar_Conflictos_Consensos_Argentina_Pospandemia-1.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/7997"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=7997"
+            }
+        ]
+    }
+}

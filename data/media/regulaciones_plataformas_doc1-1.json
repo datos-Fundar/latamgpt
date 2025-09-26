@@ -1,0 +1,111 @@
+{
+    "id": 6193,
+    "date": "2022-11-23T13:50:26",
+    "date_gmt": "2022-11-23T16:50:26",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2022/11/Regulaciones_Plataformas_Doc1-1.pdf"
+    },
+    "modified": "2022-11-23T13:50:26",
+    "modified_gmt": "2022-11-23T16:50:26",
+    "slug": "regulaciones_plataformas_doc1-1",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/regulaciones-economia-de-plataformas/regulaciones_plataformas_doc1-1/",
+    "title": {
+        "rendered": "Regulaciones_Plataformas_Doc1 (1)"
+    },
+    "author": 5,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-6193",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2022/11/Regulaciones_Plataformas_Doc1-1.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2022/11/Regulaciones_Plataformas_Doc1-1-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Regulaciones_Plataformas_Doc1-1-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/11/Regulaciones_Plataformas_Doc1-1-pdf.jpg"
+            },
+            "medium": {
+                "file": "Regulaciones_Plataformas_Doc1-1-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "filesize": 9196,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/11/Regulaciones_Plataformas_Doc1-1-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Regulaciones_Plataformas_Doc1-1-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "filesize": 43259,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/11/Regulaciones_Plataformas_Doc1-1-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Regulaciones_Plataformas_Doc1-1-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "filesize": 4837,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/11/Regulaciones_Plataformas_Doc1-1-pdf-106x150.jpg"
+            }
+        },
+        "filesize": 674259
+    },
+    "post": 6100,
+    "source_url": "https://fund.ar/wp-content/uploads/2022/11/Regulaciones_Plataformas_Doc1-1.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/6193"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/5"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=6193"
+            }
+        ]
+    }
+}

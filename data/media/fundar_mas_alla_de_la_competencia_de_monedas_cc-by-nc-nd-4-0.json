@@ -1,0 +1,79 @@
+{
+    "id": 25390,
+    "date": "2025-03-11T17:58:36",
+    "date_gmt": "2025-03-11T20:58:36",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2025/02/Fundar_Mas_alla_de_la_competencia_de_monedas_CC-BY-NC-ND-4.0.pdf"
+    },
+    "modified": "2025-03-11T17:58:36",
+    "modified_gmt": "2025-03-11T20:58:36",
+    "slug": "fundar_mas_alla_de_la_competencia_de_monedas_cc-by-nc-nd-4-0",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/hacia-una-convivencia-entre-el-peso-y-el-dolar/fundar_mas_alla_de_la_competencia_de_monedas_cc-by-nc-nd-4-0/",
+    "title": {
+        "rendered": "Fundar_Mas_alla_de_la_competencia_de_monedas_CC-BY-NC-ND-4.0"
+    },
+    "author": 14,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-25390",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2025/02/Fundar_Mas_alla_de_la_competencia_de_monedas_CC-BY-NC-ND-4.0.pdf'>Fundar_Mas_alla_de_la_competencia_de_monedas_CC-BY-NC-ND-4.0</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Mas_alla_de_la_competencia_de_monedas_CC-BY-NC-ND-4.0</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 724840,
+        "sizes": {}
+    },
+    "post": 24883,
+    "source_url": "https://fund.ar/wp-content/uploads/2025/02/Fundar_Mas_alla_de_la_competencia_de_monedas_CC-BY-NC-ND-4.0.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/25390"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/14"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=25390"
+            }
+        ]
+    }
+}

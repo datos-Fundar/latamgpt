@@ -1,0 +1,79 @@
+{
+    "id": 19203,
+    "date": "2024-08-13T18:01:30",
+    "date_gmt": "2024-08-13T21:01:30",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2024/08/Fundar_Policy-brief_Medir-mediar-monitorear-movilizar_acciones-para-mejorar-las-politicas-de-cuota-alimentaria-en-la-Argentina_CC-BY-NC-ND-4.0.pdf"
+    },
+    "modified": "2024-08-13T18:01:30",
+    "modified_gmt": "2024-08-13T21:01:30",
+    "slug": "fundar_policy-brief_medir-mediar-monitorear-movilizar_acciones-para-mejorar-las-politicas-de-cuota-alimentaria-en-la-argentina_cc-by-nc-nd-4-0",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/medir-mediar-monitorear-movilizar/fundar_policy-brief_medir-mediar-monitorear-movilizar_acciones-para-mejorar-las-politicas-de-cuota-alimentaria-en-la-argentina_cc-by-nc-nd-4-0/",
+    "title": {
+        "rendered": "Fundar_Policy-brief_Medir-mediar-monitorear-movilizar_acciones-para-mejorar-las-pol\u00edticas-de-cuota-alimentaria-en-la-Argentina_CC-BY-NC-ND-4.0"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-19203",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2024/08/Fundar_Policy-brief_Medir-mediar-monitorear-movilizar_acciones-para-mejorar-las-politicas-de-cuota-alimentaria-en-la-Argentina_CC-BY-NC-ND-4.0.pdf'>Fundar_Policy-brief_Medir-mediar-monitorear-movilizar_acciones-para-mejorar-las-pol\u00edticas-de-cuota-alimentaria-en-la-Argentina_CC-BY-NC-ND-4.0</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Policy-brief_Medir-mediar-monitorear-movilizar_acciones-para-mejorar-las-pol\u00edticas-de-cuota-alimentaria-en-la-Argentina_CC-BY-NC-ND-4.0</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 139050,
+        "sizes": {}
+    },
+    "post": 19202,
+    "source_url": "https://fund.ar/wp-content/uploads/2024/08/Fundar_Policy-brief_Medir-mediar-monitorear-movilizar_acciones-para-mejorar-las-politicas-de-cuota-alimentaria-en-la-Argentina_CC-BY-NC-ND-4.0.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/19203"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=19203"
+            }
+        ]
+    }
+}

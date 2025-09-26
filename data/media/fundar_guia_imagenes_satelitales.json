@@ -1,0 +1,111 @@
+{
+    "id": 3925,
+    "date": "2022-09-20T15:10:15",
+    "date_gmt": "2022-09-20T18:10:15",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2022/09/Fundar_Guia_Imagenes_Satelitales.pdf"
+    },
+    "modified": "2022-09-20T15:10:15",
+    "modified_gmt": "2022-09-20T18:10:15",
+    "slug": "fundar_guia_imagenes_satelitales",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/guia-imagenes-satelitales/fundar_guia_imagenes_satelitales/",
+    "title": {
+        "rendered": "Fundar_Guia_Imagenes_Satelitales"
+    },
+    "author": 11,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-3925",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2022/09/Fundar_Guia_Imagenes_Satelitales.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2022/09/Fundar_Guia_Imagenes_Satelitales-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Fundar_Guia_Imagenes_Satelitales-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_Guia_Imagenes_Satelitales-pdf.jpg"
+            },
+            "medium": {
+                "file": "Fundar_Guia_Imagenes_Satelitales-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "filesize": 11964,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_Guia_Imagenes_Satelitales-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Fundar_Guia_Imagenes_Satelitales-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "filesize": 69062,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_Guia_Imagenes_Satelitales-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Fundar_Guia_Imagenes_Satelitales-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "filesize": 5954,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_Guia_Imagenes_Satelitales-pdf-106x150.jpg"
+            }
+        },
+        "filesize": 1878047
+    },
+    "post": 3910,
+    "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_Guia_Imagenes_Satelitales.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/3925"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/11"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=3925"
+            }
+        ]
+    }
+}

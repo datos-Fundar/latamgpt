@@ -1,0 +1,79 @@
+{
+    "id": 16933,
+    "date": "2024-05-27T14:23:24",
+    "date_gmt": "2024-05-27T17:23:24",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2024/05/Fundar_EITI_Infografia.pdf"
+    },
+    "modified": "2024-05-27T14:23:24",
+    "modified_gmt": "2024-05-27T17:23:24",
+    "slug": "fundar_eiti_infografia",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/eiti-iniciativa-para-la-transparencia-de-las-industrias-extractivas/fundar_eiti_infografia/",
+    "title": {
+        "rendered": "Fundar_EITI_Infografia"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-16933",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2024/05/Fundar_EITI_Infografia.pdf'>Fundar_EITI_Infografia</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_EITI_Infografia</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 1141899,
+        "sizes": {}
+    },
+    "post": 16932,
+    "source_url": "https://fund.ar/wp-content/uploads/2024/05/Fundar_EITI_Infografia.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/16933"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=16933"
+            }
+        ]
+    }
+}

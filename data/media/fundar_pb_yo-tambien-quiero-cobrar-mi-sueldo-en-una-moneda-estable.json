@@ -1,0 +1,79 @@
+{
+    "id": 9185,
+    "date": "2023-08-17T14:54:34",
+    "date_gmt": "2023-08-17T17:54:34",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/08/Fundar_PB_yo-tambien-quiero-cobrar-mi-sueldo-en-una-moneda-estable.pdf"
+    },
+    "modified": "2023-08-17T14:54:34",
+    "modified_gmt": "2023-08-17T17:54:34",
+    "slug": "fundar_pb_yo-tambien-quiero-cobrar-mi-sueldo-en-una-moneda-estable",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/yo-tambien-quiero-cobrar-mi-sueldo-en-una-moneda-estable/fundar_pb_yo-tambien-quiero-cobrar-mi-sueldo-en-una-moneda-estable/",
+    "title": {
+        "rendered": "Fundar_PB_yo-tambien-quiero-cobrar-mi-sueldo-en-una-moneda-estable"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-9185",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/08/Fundar_PB_yo-tambien-quiero-cobrar-mi-sueldo-en-una-moneda-estable.pdf'>Fundar_PB_yo-tambien-quiero-cobrar-mi-sueldo-en-una-moneda-estable</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_PB_yo-tambien-quiero-cobrar-mi-sueldo-en-una-moneda-estable</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 126028,
+        "sizes": {}
+    },
+    "post": 9165,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/08/Fundar_PB_yo-tambien-quiero-cobrar-mi-sueldo-en-una-moneda-estable.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/9185"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=9185"
+            }
+        ]
+    }
+}

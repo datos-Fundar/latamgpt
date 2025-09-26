@@ -1,0 +1,111 @@
+{
+    "id": 3937,
+    "date": "2022-09-20T15:25:33",
+    "date_gmt": "2022-09-20T18:25:33",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2022/09/Fundar_IFE.pdf"
+    },
+    "modified": "2022-09-20T15:25:33",
+    "modified_gmt": "2022-09-20T18:25:33",
+    "slug": "fundar_ife",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/ingreso-familiar-de-emergencia-ife-notas-sobre-una-politica-publica-a-contrarreloj/fundar_ife/",
+    "title": {
+        "rendered": "Fundar_IFE"
+    },
+    "author": 11,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-3937",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2022/09/Fundar_IFE.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2022/09/Fundar_IFE-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Fundar_IFE-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_IFE-pdf.jpg"
+            },
+            "medium": {
+                "file": "Fundar_IFE-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "filesize": 9707,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_IFE-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Fundar_IFE-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "filesize": 38992,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_IFE-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Fundar_IFE-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "filesize": 5330,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_IFE-pdf-106x150.jpg"
+            }
+        },
+        "filesize": 463534
+    },
+    "post": 3934,
+    "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_IFE.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/3937"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/11"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=3937"
+            }
+        ]
+    }
+}

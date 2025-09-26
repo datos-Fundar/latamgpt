@@ -1,0 +1,79 @@
+{
+    "id": 17982,
+    "date": "2024-06-28T16:30:15",
+    "date_gmt": "2024-06-28T19:30:15",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2024/06/Fundar_Convergence-divergence-or-mixed-results_A-comparison-between-private-and-public-rules-governing-lithium-mining-in-Argentina.pdf"
+    },
+    "modified": "2024-06-28T16:30:15",
+    "modified_gmt": "2024-06-28T19:30:15",
+    "slug": "fundar_convergence-divergence-or-mixed-results_a-comparison-between-private-and-public-rules-governing-lithium-mining-in-argentina-2",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/fundar_convergence-divergence-or-mixed-results_a-comparison-between-private-and-public-rules-governing-lithium-mining-in-argentina-2/",
+    "title": {
+        "rendered": "Fundar_Convergence-divergence-or-mixed-results_A-comparison-between-private-and-public-rules-governing-lithium-mining-in-Argentina"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-17982",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2024/06/Fundar_Convergence-divergence-or-mixed-results_A-comparison-between-private-and-public-rules-governing-lithium-mining-in-Argentina.pdf'>Fundar_Convergence-divergence-or-mixed-results_A-comparison-between-private-and-public-rules-governing-lithium-mining-in-Argentina</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Convergence-divergence-or-mixed-results_A-comparison-between-private-and-public-rules-governing-lithium-mining-in-Argentina</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 634374,
+        "sizes": {}
+    },
+    "post": null,
+    "source_url": "https://fund.ar/wp-content/uploads/2024/06/Fundar_Convergence-divergence-or-mixed-results_A-comparison-between-private-and-public-rules-governing-lithium-mining-in-Argentina.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/17982"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=17982"
+            }
+        ]
+    }
+}

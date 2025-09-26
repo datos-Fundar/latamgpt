@@ -1,0 +1,79 @@
+{
+    "id": 11358,
+    "date": "2023-12-07T11:38:05",
+    "date_gmt": "2023-12-07T14:38:05",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/12/FU_Info_CadenaTextil.pdf"
+    },
+    "modified": "2023-12-07T11:38:05",
+    "modified_gmt": "2023-12-07T14:38:05",
+    "slug": "fu_info_cadenatextil",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/la-cadena-textil-indumentaria/fu_info_cadenatextil/",
+    "title": {
+        "rendered": "FU_Info_CadenaTextil"
+    },
+    "author": 5,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-11358",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/12/FU_Info_CadenaTextil.pdf'>FU_Info_CadenaTextil</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>FU_Info_CadenaTextil</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 7051199,
+        "sizes": {}
+    },
+    "post": 11151,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/12/FU_Info_CadenaTextil.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/11358"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/5"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=11358"
+            }
+        ]
+    }
+}

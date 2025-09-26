@@ -1,0 +1,111 @@
+{
+    "id": 6559,
+    "date": "2022-12-20T13:32:00",
+    "date_gmt": "2022-12-20T16:32:00",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2022/12/Fundar_Electromovilidad_en_Argentina.pdf"
+    },
+    "modified": "2022-12-20T13:32:00",
+    "modified_gmt": "2022-12-20T16:32:00",
+    "slug": "fundar_electromovilidad_en_argentina",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/electromovilidad-en-la-argentina/fundar_electromovilidad_en_argentina/",
+    "title": {
+        "rendered": "Fundar_Electromovilidad_en_Argentina"
+    },
+    "author": 5,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-6559",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2022/12/Fundar_Electromovilidad_en_Argentina.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2022/12/Fundar_Electromovilidad_en_Argentina-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Fundar_Electromovilidad_en_Argentina-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/12/Fundar_Electromovilidad_en_Argentina-pdf.jpg"
+            },
+            "medium": {
+                "file": "Fundar_Electromovilidad_en_Argentina-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "filesize": 43927,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/12/Fundar_Electromovilidad_en_Argentina-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Fundar_Electromovilidad_en_Argentina-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "filesize": 84239,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/12/Fundar_Electromovilidad_en_Argentina-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Fundar_Electromovilidad_en_Argentina-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "filesize": 38928,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/12/Fundar_Electromovilidad_en_Argentina-pdf-106x150.jpg"
+            }
+        },
+        "filesize": 900551
+    },
+    "post": 6516,
+    "source_url": "https://fund.ar/wp-content/uploads/2022/12/Fundar_Electromovilidad_en_Argentina.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/6559"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/5"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=6559"
+            }
+        ]
+    }
+}

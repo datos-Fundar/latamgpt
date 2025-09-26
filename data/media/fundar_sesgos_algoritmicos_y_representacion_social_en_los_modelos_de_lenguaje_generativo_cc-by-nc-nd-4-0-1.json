@@ -1,0 +1,79 @@
+{
+    "id": 14839,
+    "date": "2024-04-11T10:55:40",
+    "date_gmt": "2024-04-11T13:55:40",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2024/04/Fundar_Sesgos_algoritmicos_y_representacion_social_en_los_modelos_de_lenguaje_generativo_CC-BY-NC-ND-4.0-1.pdf"
+    },
+    "modified": "2024-04-11T10:55:40",
+    "modified_gmt": "2024-04-11T13:55:40",
+    "slug": "fundar_sesgos_algoritmicos_y_representacion_social_en_los_modelos_de_lenguaje_generativo_cc-by-nc-nd-4-0-1",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/sesgos-algoritmicos-y-representacion-social-en-los-modelos-de-lenguaje-generativo/fundar_sesgos_algoritmicos_y_representacion_social_en_los_modelos_de_lenguaje_generativo_cc-by-nc-nd-4-0-1/",
+    "title": {
+        "rendered": "Fundar_Sesgos_algoritmicos_y_representacion_social_en_los_modelos_de_lenguaje_generativo_CC-BY-NC-ND-4.0-1"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-14839",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2024/04/Fundar_Sesgos_algoritmicos_y_representacion_social_en_los_modelos_de_lenguaje_generativo_CC-BY-NC-ND-4.0-1.pdf'>Fundar_Sesgos_algoritmicos_y_representacion_social_en_los_modelos_de_lenguaje_generativo_CC-BY-NC-ND-4.0-1</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Sesgos_algoritmicos_y_representacion_social_en_los_modelos_de_lenguaje_generativo_CC-BY-NC-ND-4.0-1</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 655210,
+        "sizes": {}
+    },
+    "post": 14335,
+    "source_url": "https://fund.ar/wp-content/uploads/2024/04/Fundar_Sesgos_algoritmicos_y_representacion_social_en_los_modelos_de_lenguaje_generativo_CC-BY-NC-ND-4.0-1.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/14839"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=14839"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": 26823,
+    "date": "2025-07-14T16:16:23",
+    "date_gmt": "2025-07-14T19:16:23",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2025/06/Fundar_Un-club-para-Nuevo-Alberdi-Oeste_CC-BY-NC-ND-4.0-1.pdf"
+    },
+    "modified": "2025-07-14T16:16:23",
+    "modified_gmt": "2025-07-14T19:16:23",
+    "slug": "fundar_un-club-para-nuevo-alberdi-oeste_cc-by-nc-nd-4-0",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/un-club-para-nuevo-alberdi-oeste-estrategias-de-integracion-sociourbana-para-prevenir-la-violencia-y-el-delito/fundar_un-club-para-nuevo-alberdi-oeste_cc-by-nc-nd-4-0/",
+    "title": {
+        "rendered": "Fundar_Un-club-para-Nuevo-Alberdi-Oeste_CC-BY-NC-ND-4.0"
+    },
+    "author": 14,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-26823",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2025/06/Fundar_Un-club-para-Nuevo-Alberdi-Oeste_CC-BY-NC-ND-4.0-1.pdf'>Fundar_Un-club-para-Nuevo-Alberdi-Oeste_CC-BY-NC-ND-4.0</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Un-club-para-Nuevo-Alberdi-Oeste_CC-BY-NC-ND-4.0</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 1385506,
+        "sizes": {}
+    },
+    "post": 26186,
+    "source_url": "https://fund.ar/wp-content/uploads/2025/06/Fundar_Un-club-para-Nuevo-Alberdi-Oeste_CC-BY-NC-ND-4.0-1.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/26823"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/14"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=26823"
+            }
+        ]
+    }
+}

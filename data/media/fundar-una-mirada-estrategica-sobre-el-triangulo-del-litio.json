@@ -1,0 +1,107 @@
+{
+    "id": 1246,
+    "date": "2021-11-03T10:22:21",
+    "date_gmt": "2021-11-03T13:22:21",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2021/11/Fundar-Una-mirada-estrate\u0301gica-sobre-el-tria\u0301ngulo-del-litio.pdf"
+    },
+    "modified": "2021-11-03T10:43:20",
+    "modified_gmt": "2021-11-03T13:43:20",
+    "slug": "fundar-una-mirada-estrategica-sobre-el-triangulo-del-litio",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/mirada-estrategica-triangulo-litio/fundar-una-mirada-estrategica-sobre-el-triangulo-del-litio/",
+    "title": {
+        "rendered": "Fundar &#8211; Una mirada estrate\u0301gica sobre el tria\u0301ngulo del litio"
+    },
+    "author": 5,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-1246",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2021/11/Fundar-Una-mirada-estrate\u0301gica-sobre-el-tria\u0301ngulo-del-litio.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2021/11/Fundar-Una-mirada-estrate\u0301gica-sobre-el-tria\u0301ngulo-del-litio-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Fundar-Una-mirada-estrate\u0301gica-sobre-el-tria\u0301ngulo-del-litio-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/11/Fundar-Una-mirada-estrate\u0301gica-sobre-el-tria\u0301ngulo-del-litio-pdf.jpg"
+            },
+            "medium": {
+                "file": "Fundar-Una-mirada-estrate\u0301gica-sobre-el-tria\u0301ngulo-del-litio-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/11/Fundar-Una-mirada-estrate\u0301gica-sobre-el-tria\u0301ngulo-del-litio-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Fundar-Una-mirada-estrate\u0301gica-sobre-el-tria\u0301ngulo-del-litio-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/11/Fundar-Una-mirada-estrate\u0301gica-sobre-el-tria\u0301ngulo-del-litio-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Fundar-Una-mirada-estrate\u0301gica-sobre-el-tria\u0301ngulo-del-litio-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/11/Fundar-Una-mirada-estrate\u0301gica-sobre-el-tria\u0301ngulo-del-litio-pdf-106x150.jpg"
+            }
+        }
+    },
+    "post": 460,
+    "source_url": "https://fund.ar/wp-content/uploads/2021/11/Fundar-Una-mirada-estrate\u0301gica-sobre-el-tria\u0301ngulo-del-litio.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/1246"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/5"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=1246"
+            }
+        ]
+    }
+}

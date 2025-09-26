@@ -1,0 +1,111 @@
+{
+    "id": 4644,
+    "date": "2022-09-26T16:53:22",
+    "date_gmt": "2022-09-26T19:53:22",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2022/04/Fundar_Arceo_PB_VacaMuerta.pdf"
+    },
+    "modified": "2022-09-26T16:53:22",
+    "modified_gmt": "2022-09-26T19:53:22",
+    "slug": "fundar_arceo_pb_vacamuerta",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/evolucion-sector-hidrocarburos/fundar_arceo_pb_vacamuerta/",
+    "title": {
+        "rendered": "Fundar_Arceo_PB_VacaMuerta"
+    },
+    "author": 5,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-4644",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2022/04/Fundar_Arceo_PB_VacaMuerta.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2022/04/Fundar_Arceo_PB_VacaMuerta-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Fundar_Arceo_PB_VacaMuerta-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/04/Fundar_Arceo_PB_VacaMuerta-pdf.jpg"
+            },
+            "medium": {
+                "file": "Fundar_Arceo_PB_VacaMuerta-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "filesize": 17339,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/04/Fundar_Arceo_PB_VacaMuerta-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Fundar_Arceo_PB_VacaMuerta-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "filesize": 148289,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/04/Fundar_Arceo_PB_VacaMuerta-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Fundar_Arceo_PB_VacaMuerta-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "filesize": 6621,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/04/Fundar_Arceo_PB_VacaMuerta-pdf-106x150.jpg"
+            }
+        },
+        "filesize": 128939
+    },
+    "post": 1597,
+    "source_url": "https://fund.ar/wp-content/uploads/2022/04/Fundar_Arceo_PB_VacaMuerta.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/4644"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/5"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=4644"
+            }
+        ]
+    }
+}

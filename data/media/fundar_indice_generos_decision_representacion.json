@@ -1,0 +1,111 @@
+{
+    "id": 6979,
+    "date": "2023-03-08T09:48:51",
+    "date_gmt": "2023-03-08T12:48:51",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/03/Fundar_Indice_Generos_Decision_Representacion.pdf"
+    },
+    "modified": "2023-03-08T09:48:51",
+    "modified_gmt": "2023-03-08T12:48:51",
+    "slug": "fundar_indice_generos_decision_representacion",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/indice-genero-decision-representacion/fundar_indice_generos_decision_representacion/",
+    "title": {
+        "rendered": "Fundar_Indice_Generos_Decisi\u00f3n_Representacion"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-6979",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/03/Fundar_Indice_Generos_Decision_Representacion.pdf'><img fetchpriority=\"high\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2023/03/Fundar_Indice_Generos_Decision_Representacion-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Fundar_Indice_Generos_Decision_Representacion-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2023/03/Fundar_Indice_Generos_Decision_Representacion-pdf.jpg"
+            },
+            "medium": {
+                "file": "Fundar_Indice_Generos_Decision_Representacion-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "filesize": 11300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2023/03/Fundar_Indice_Generos_Decision_Representacion-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Fundar_Indice_Generos_Decision_Representacion-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "filesize": 52579,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2023/03/Fundar_Indice_Generos_Decision_Representacion-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Fundar_Indice_Generos_Decision_Representacion-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "filesize": 5698,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2023/03/Fundar_Indice_Generos_Decision_Representacion-pdf-106x150.jpg"
+            }
+        },
+        "filesize": 1844169
+    },
+    "post": 6881,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/03/Fundar_Indice_Generos_Decision_Representacion.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/6979"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=6979"
+            }
+        ]
+    }
+}

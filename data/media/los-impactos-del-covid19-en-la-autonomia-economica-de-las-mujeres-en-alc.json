@@ -1,0 +1,107 @@
+{
+    "id": 326,
+    "date": "2021-03-10T15:36:30",
+    "date_gmt": "2021-03-10T18:36:30",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2021/03/Los-impactos-del-COVID19-en-la-autonomia-economica-de-las-mujeres-en-ALC.pdf"
+    },
+    "modified": "2021-03-10T15:37:35",
+    "modified_gmt": "2021-03-10T18:37:35",
+    "slug": "los-impactos-del-covid19-en-la-autonomia-economica-de-las-mujeres-en-alc",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/los-impactos-del-covid19-en-la-autonomia-economica-de-las-mujeres-en-alc/",
+    "title": {
+        "rendered": "Los impactos del COVID-19 en la autonom\u00eda econ\u00f3mica de las mujeres en Am\u00e9rica Latina y el Caribe"
+    },
+    "author": 5,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-326",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2021/03/Los-impactos-del-COVID19-en-la-autonomia-economica-de-las-mujeres-en-ALC.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2021/03/Los-impactos-del-COVID19-en-la-autonomia-economica-de-las-mujeres-en-ALC-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Los-impactos-del-COVID19-en-la-autonomia-economica-de-las-mujeres-en-ALC-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/03/Los-impactos-del-COVID19-en-la-autonomia-economica-de-las-mujeres-en-ALC-pdf.jpg"
+            },
+            "medium": {
+                "file": "Los-impactos-del-COVID19-en-la-autonomia-economica-de-las-mujeres-en-ALC-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/03/Los-impactos-del-COVID19-en-la-autonomia-economica-de-las-mujeres-en-ALC-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Los-impactos-del-COVID19-en-la-autonomia-economica-de-las-mujeres-en-ALC-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/03/Los-impactos-del-COVID19-en-la-autonomia-economica-de-las-mujeres-en-ALC-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Los-impactos-del-COVID19-en-la-autonomia-economica-de-las-mujeres-en-ALC-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/03/Los-impactos-del-COVID19-en-la-autonomia-economica-de-las-mujeres-en-ALC-pdf-106x150.jpg"
+            }
+        }
+    },
+    "post": null,
+    "source_url": "https://fund.ar/wp-content/uploads/2021/03/Los-impactos-del-COVID19-en-la-autonomia-economica-de-las-mujeres-en-ALC.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/326"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/5"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=326"
+            }
+        ]
+    }
+}

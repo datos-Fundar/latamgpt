@@ -1,0 +1,79 @@
+{
+    "id": 22424,
+    "date": "2024-11-14T11:12:34",
+    "date_gmt": "2024-11-14T14:12:34",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2024/11/Fundar_Sistema-de-estabilizacion-del-empleo-y-la-produccion_CC-BY-NC-ND-4.0.pdf"
+    },
+    "modified": "2024-11-14T11:12:34",
+    "modified_gmt": "2024-11-14T14:12:34",
+    "slug": "fundar_sistema-de-estabilizacion-del-empleo-y-la-produccion_cc-by-nc-nd-4-0",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/sistema-de-estabilizacion-del-empleo-y-la-produccion/fundar_sistema-de-estabilizacion-del-empleo-y-la-produccion_cc-by-nc-nd-4-0/",
+    "title": {
+        "rendered": "Fundar_Sistema-de estabilizacion-del-empleo-y-la-produccion_CC-BY-NC-ND-4.0"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-22424",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2024/11/Fundar_Sistema-de-estabilizacion-del-empleo-y-la-produccion_CC-BY-NC-ND-4.0.pdf'>Fundar_Sistema-de estabilizacion-del-empleo-y-la-produccion_CC-BY-NC-ND-4.0</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Sistema-de estabilizacion-del-empleo-y-la-produccion_CC-BY-NC-ND-4.0</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 868801,
+        "sizes": {}
+    },
+    "post": 22094,
+    "source_url": "https://fund.ar/wp-content/uploads/2024/11/Fundar_Sistema-de-estabilizacion-del-empleo-y-la-produccion_CC-BY-NC-ND-4.0.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/22424"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=22424"
+            }
+        ]
+    }
+}

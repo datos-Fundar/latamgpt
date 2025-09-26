@@ -1,0 +1,79 @@
+{
+    "id": 17102,
+    "date": "2024-05-31T11:13:52",
+    "date_gmt": "2024-05-31T14:13:52",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2024/05/HOJA-DE-RUTA-Lineamientos-para-la-Promocion-de-la-Igualdad-y-Equidad-de-Genero-en-el-Sector-Minero.pdf"
+    },
+    "modified": "2024-05-31T11:13:52",
+    "modified_gmt": "2024-05-31T14:13:52",
+    "slug": "hoja-de-ruta-lineamientos-para-la-promocion-de-la-igualdad-y-equidad-de-genero-en-el-sector-minero",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/hoja-de-ruta-nacional-para-la-promocion-de-la-equidad-de-genero-en-el-sector-minero/hoja-de-ruta-lineamientos-para-la-promocion-de-la-igualdad-y-equidad-de-genero-en-el-sector-minero/",
+    "title": {
+        "rendered": "HOJA-DE-RUTA-Lineamientos-para-la-Promocion-de-la-Igualdad-y-Equidad-de-Genero-en-el-Sector-Minero"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-17102",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2024/05/HOJA-DE-RUTA-Lineamientos-para-la-Promocion-de-la-Igualdad-y-Equidad-de-Genero-en-el-Sector-Minero.pdf'>HOJA-DE-RUTA-Lineamientos-para-la-Promocion-de-la-Igualdad-y-Equidad-de-Genero-en-el-Sector-Minero</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>HOJA-DE-RUTA-Lineamientos-para-la-Promocion-de-la-Igualdad-y-Equidad-de-Genero-en-el-Sector-Minero</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 1163276,
+        "sizes": {}
+    },
+    "post": 16989,
+    "source_url": "https://fund.ar/wp-content/uploads/2024/05/HOJA-DE-RUTA-Lineamientos-para-la-Promocion-de-la-Igualdad-y-Equidad-de-Genero-en-el-Sector-Minero.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/17102"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=17102"
+            }
+        ]
+    }
+}

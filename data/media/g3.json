@@ -1,0 +1,79 @@
+{
+    "id": 18913,
+    "date": "2024-08-08T15:12:49",
+    "date_gmt": "2024-08-08T18:12:49",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2024/08/G3.pdf"
+    },
+    "modified": "2024-08-08T15:12:49",
+    "modified_gmt": "2024-08-08T18:12:49",
+    "slug": "g3",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/guia-practica-para-analizar-la-complejidad-economica-de-una-provincia/g3/",
+    "title": {
+        "rendered": "G3"
+    },
+    "author": 14,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-18913",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2024/08/G3.pdf'>G3</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>G3</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 513324,
+        "sizes": {}
+    },
+    "post": 18474,
+    "source_url": "https://fund.ar/wp-content/uploads/2024/08/G3.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/18913"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/14"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=18913"
+            }
+        ]
+    }
+}

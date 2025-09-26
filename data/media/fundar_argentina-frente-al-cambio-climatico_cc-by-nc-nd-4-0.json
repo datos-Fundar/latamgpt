@@ -1,0 +1,79 @@
+{
+    "id": 23269,
+    "date": "2024-12-03T17:45:41",
+    "date_gmt": "2024-12-03T20:45:41",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2024/11/Fundar_Argentina-frente-al-cambio-climatico_CC-BY-NC-ND-4.0-1.pdf"
+    },
+    "modified": "2024-12-03T17:45:41",
+    "modified_gmt": "2024-12-03T20:45:41",
+    "slug": "fundar_argentina-frente-al-cambio-climatico_cc-by-nc-nd-4-0",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/argentina-frente-al-cambio-climatico/fundar_argentina-frente-al-cambio-climatico_cc-by-nc-nd-4-0/",
+    "title": {
+        "rendered": "Fundar_Argentina-frente-al-cambio-climatico_CC-BY-NC-ND-4.0"
+    },
+    "author": 14,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-23269",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2024/11/Fundar_Argentina-frente-al-cambio-climatico_CC-BY-NC-ND-4.0-1.pdf'>Fundar_Argentina-frente-al-cambio-climatico_CC-BY-NC-ND-4.0</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Argentina-frente-al-cambio-climatico_CC-BY-NC-ND-4.0</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 1197409,
+        "sizes": {}
+    },
+    "post": 22430,
+    "source_url": "https://fund.ar/wp-content/uploads/2024/11/Fundar_Argentina-frente-al-cambio-climatico_CC-BY-NC-ND-4.0-1.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/23269"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/14"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=23269"
+            }
+        ]
+    }
+}

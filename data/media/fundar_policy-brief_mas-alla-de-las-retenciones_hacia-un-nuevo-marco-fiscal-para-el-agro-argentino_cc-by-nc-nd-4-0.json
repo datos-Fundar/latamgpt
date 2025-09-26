@@ -1,0 +1,79 @@
+{
+    "id": 17881,
+    "date": "2024-06-25T09:46:44",
+    "date_gmt": "2024-06-25T12:46:44",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2024/06/Fundar_Policy-brief_Mas-alla-de-las-retenciones_hacia-un-nuevo-marco-fiscal-para-el-agro-argentino_CC-BY-NC-ND-4.0.pdf"
+    },
+    "modified": "2024-06-25T09:46:44",
+    "modified_gmt": "2024-06-25T12:46:44",
+    "slug": "fundar_policy-brief_mas-alla-de-las-retenciones_hacia-un-nuevo-marco-fiscal-para-el-agro-argentino_cc-by-nc-nd-4-0",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/discutir-los-derechos-de-exportacion-hacia-un-nuevo-marco-fiscal-para-el-agro/fundar_policy-brief_mas-alla-de-las-retenciones_hacia-un-nuevo-marco-fiscal-para-el-agro-argentino_cc-by-nc-nd-4-0/",
+    "title": {
+        "rendered": "Fundar_Policy-brief_Mas-alla-de-las-retenciones_hacia-un-nuevo-marco-fiscal-para-el-agro-argentino_CC-BY-NC-ND-4.0"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-17881",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2024/06/Fundar_Policy-brief_Mas-alla-de-las-retenciones_hacia-un-nuevo-marco-fiscal-para-el-agro-argentino_CC-BY-NC-ND-4.0.pdf'>Fundar_Policy-brief_Mas-alla-de-las-retenciones_hacia-un-nuevo-marco-fiscal-para-el-agro-argentino_CC-BY-NC-ND-4.0</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Policy-brief_Mas-alla-de-las-retenciones_hacia-un-nuevo-marco-fiscal-para-el-agro-argentino_CC-BY-NC-ND-4.0</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 131814,
+        "sizes": {}
+    },
+    "post": 17653,
+    "source_url": "https://fund.ar/wp-content/uploads/2024/06/Fundar_Policy-brief_Mas-alla-de-las-retenciones_hacia-un-nuevo-marco-fiscal-para-el-agro-argentino_CC-BY-NC-ND-4.0.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/17881"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=17881"
+            }
+        ]
+    }
+}

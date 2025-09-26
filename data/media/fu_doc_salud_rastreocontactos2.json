@@ -1,0 +1,107 @@
+{
+    "id": 1311,
+    "date": "2021-11-16T13:07:47",
+    "date_gmt": "2021-11-16T16:07:47",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2021/11/FU_DOC_SALUD_RastreoContactos2.pdf"
+    },
+    "modified": "2021-11-16T13:08:22",
+    "modified_gmt": "2021-11-16T16:08:22",
+    "slug": "fu_doc_salud_rastreocontactos2",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/rastreo-contactos/fu_doc_salud_rastreocontactos2/",
+    "title": {
+        "rendered": "Fundar_RastreoContactos"
+    },
+    "author": 8,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-1311",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2021/11/FU_DOC_SALUD_RastreoContactos2.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2021/11/FU_DOC_SALUD_RastreoContactos2-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n<p>Un an\u00e1lisis de doce provincias</p>\n"
+    },
+    "caption": {
+        "rendered": "<p>El rastreo de contactos<br />\nestrechos en la Argentina</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "FU_DOC_SALUD_RastreoContactos2-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/11/FU_DOC_SALUD_RastreoContactos2-pdf.jpg"
+            },
+            "medium": {
+                "file": "FU_DOC_SALUD_RastreoContactos2-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/11/FU_DOC_SALUD_RastreoContactos2-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "FU_DOC_SALUD_RastreoContactos2-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/11/FU_DOC_SALUD_RastreoContactos2-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "FU_DOC_SALUD_RastreoContactos2-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/11/FU_DOC_SALUD_RastreoContactos2-pdf-106x150.jpg"
+            }
+        }
+    },
+    "post": 1310,
+    "source_url": "https://fund.ar/wp-content/uploads/2021/11/FU_DOC_SALUD_RastreoContactos2.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/1311"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/8"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=1311"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": 9723,
+    "date": "2023-09-18T18:07:18",
+    "date_gmt": "2023-09-18T21:07:18",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/09/Fundar_Ingresos-populares-en-un-regimen-de-alta-inflacion.pdf"
+    },
+    "modified": "2023-09-18T18:07:18",
+    "modified_gmt": "2023-09-18T21:07:18",
+    "slug": "fundar_ingresos-populares-en-un-regimen-de-alta-inflacion-2",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/ingresos-populares-en-un-regimen-de-alta-inflacion/fundar_ingresos-populares-en-un-regimen-de-alta-inflacion-2/",
+    "title": {
+        "rendered": "Fundar_Ingresos-populares-en-un-regimen-de-alta-inflacion"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-9723",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/09/Fundar_Ingresos-populares-en-un-regimen-de-alta-inflacion.pdf'>Fundar_Ingresos-populares-en-un-regimen-de-alta-inflacion</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Ingresos-populares-en-un-regimen-de-alta-inflacion</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 638792,
+        "sizes": {}
+    },
+    "post": 9655,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/09/Fundar_Ingresos-populares-en-un-regimen-de-alta-inflacion.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/9723"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=9723"
+            }
+        ]
+    }
+}

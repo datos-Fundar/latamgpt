@@ -1,0 +1,111 @@
+{
+    "id": 6189,
+    "date": "2022-11-23T13:47:36",
+    "date_gmt": "2022-11-23T16:47:36",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2022/11/Gestion_algoritmica_Plataformas-Doc2.pdf"
+    },
+    "modified": "2022-11-23T13:47:36",
+    "modified_gmt": "2022-11-23T16:47:36",
+    "slug": "gestion_algoritmica_plataformas-doc2",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/gestion-algoritmica-del-trabajo/gestion_algoritmica_plataformas-doc2/",
+    "title": {
+        "rendered": "Gestion_algoritmica_Plataformas-Doc2"
+    },
+    "author": 5,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-6189",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2022/11/Gestion_algoritmica_Plataformas-Doc2.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2022/11/Gestion_algoritmica_Plataformas-Doc2-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Gestion_algoritmica_Plataformas-Doc2-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/11/Gestion_algoritmica_Plataformas-Doc2-pdf.jpg"
+            },
+            "medium": {
+                "file": "Gestion_algoritmica_Plataformas-Doc2-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "filesize": 8303,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/11/Gestion_algoritmica_Plataformas-Doc2-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Gestion_algoritmica_Plataformas-Doc2-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "filesize": 38709,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/11/Gestion_algoritmica_Plataformas-Doc2-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Gestion_algoritmica_Plataformas-Doc2-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "filesize": 4592,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/11/Gestion_algoritmica_Plataformas-Doc2-pdf-106x150.jpg"
+            }
+        },
+        "filesize": 2028645
+    },
+    "post": 6124,
+    "source_url": "https://fund.ar/wp-content/uploads/2022/11/Gestion_algoritmica_Plataformas-Doc2.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/6189"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/5"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=6189"
+            }
+        ]
+    }
+}

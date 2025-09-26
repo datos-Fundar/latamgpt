@@ -1,0 +1,79 @@
+{
+    "id": 8852,
+    "date": "2023-07-18T11:25:04",
+    "date_gmt": "2023-07-18T14:25:04",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/06/Fundar_DOC3_TDF_Analisis_viabilidad_transformacion_productiva-1.pdf"
+    },
+    "modified": "2023-07-18T11:25:04",
+    "modified_gmt": "2023-07-18T14:25:04",
+    "slug": "fundar_doc3_tdf_analisis_viabilidad_transformacion_productiva-2",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/viabilidad-de-la-transformacion/fundar_doc3_tdf_analisis_viabilidad_transformacion_productiva-2/",
+    "title": {
+        "rendered": "Fundar_DOC3_TDF_An\u00e1lisis_viabilidad_transformaci\u00f3n_productiva"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-8852",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/06/Fundar_DOC3_TDF_Analisis_viabilidad_transformacion_productiva-1.pdf'>Fundar_DOC3_TDF_An\u00e1lisis_viabilidad_transformaci\u00f3n_productiva</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_DOC3_TDF_An\u00e1lisis_viabilidad_transformaci\u00f3n_productiva</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 913876,
+        "sizes": {}
+    },
+    "post": 8107,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/06/Fundar_DOC3_TDF_Analisis_viabilidad_transformacion_productiva-1.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/8852"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=8852"
+            }
+        ]
+    }
+}

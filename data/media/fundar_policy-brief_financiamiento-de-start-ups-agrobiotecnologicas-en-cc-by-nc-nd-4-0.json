@@ -1,0 +1,79 @@
+{
+    "id": 11568,
+    "date": "2023-12-13T22:12:20",
+    "date_gmt": "2023-12-14T01:12:20",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/12/Fundar_Policy-brief_Financiamiento-de-start-ups-agrobiotecnologicas-en-CC-BY-NC-ND-4.0.pdf"
+    },
+    "modified": "2023-12-13T22:12:20",
+    "modified_gmt": "2023-12-14T01:12:20",
+    "slug": "fundar_policy-brief_financiamiento-de-start-ups-agrobiotecnologicas-en-cc-by-nc-nd-4-0",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/financiamiento-de-startups-agrobiotecnologicas-en-argentina/fundar_policy-brief_financiamiento-de-start-ups-agrobiotecnologicas-en-cc-by-nc-nd-4-0/",
+    "title": {
+        "rendered": "Fundar_Policy-brief_Financiamiento-de-start-ups-agrobiotecnologicas-en-CC-BY-NC-ND 4.0"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-11568",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/12/Fundar_Policy-brief_Financiamiento-de-start-ups-agrobiotecnologicas-en-CC-BY-NC-ND-4.0.pdf'>Fundar_Policy-brief_Financiamiento-de-start-ups-agrobiotecnologicas-en-CC-BY-NC-ND 4.0</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Policy-brief_Financiamiento-de-start-ups-agrobiotecnologicas-en-CC-BY-NC-ND 4.0</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 150951,
+        "sizes": {}
+    },
+    "post": 11395,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/12/Fundar_Policy-brief_Financiamiento-de-start-ups-agrobiotecnologicas-en-CC-BY-NC-ND-4.0.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/11568"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=11568"
+            }
+        ]
+    }
+}

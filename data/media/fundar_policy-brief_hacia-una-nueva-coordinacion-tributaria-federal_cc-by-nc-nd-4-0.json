@@ -1,0 +1,79 @@
+{
+    "id": 26959,
+    "date": "2025-07-24T12:17:15",
+    "date_gmt": "2025-07-24T15:17:15",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2025/07/Fundar_Policy-brief_Hacia-una-nueva-coordinacion-tributaria-federal_CC-BY-NC-ND-4.0.pdf"
+    },
+    "modified": "2025-07-24T12:17:15",
+    "modified_gmt": "2025-07-24T15:17:15",
+    "slug": "fundar_policy-brief_hacia-una-nueva-coordinacion-tributaria-federal_cc-by-nc-nd-4-0",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/hacia-una-nueva-coordinacion-tributaria-federal/fundar_policy-brief_hacia-una-nueva-coordinacion-tributaria-federal_cc-by-nc-nd-4-0/",
+    "title": {
+        "rendered": "Fundar_Policy-brief_Hacia-una-nueva-coordinacion-tributaria-federal_CC-BY-NC-ND-4.0"
+    },
+    "author": 14,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-26959",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2025/07/Fundar_Policy-brief_Hacia-una-nueva-coordinacion-tributaria-federal_CC-BY-NC-ND-4.0.pdf'>Fundar_Policy-brief_Hacia-una-nueva-coordinacion-tributaria-federal_CC-BY-NC-ND-4.0</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Policy-brief_Hacia-una-nueva-coordinacion-tributaria-federal_CC-BY-NC-ND-4.0</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 136567,
+        "sizes": {}
+    },
+    "post": 26872,
+    "source_url": "https://fund.ar/wp-content/uploads/2025/07/Fundar_Policy-brief_Hacia-una-nueva-coordinacion-tributaria-federal_CC-BY-NC-ND-4.0.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/26959"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/14"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=26959"
+            }
+        ]
+    }
+}

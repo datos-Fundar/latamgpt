@@ -1,0 +1,79 @@
+{
+    "id": 14294,
+    "date": "2024-03-21T17:51:58",
+    "date_gmt": "2024-03-21T20:51:58",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2024/03/FU_DOC_Electromovilidad_3.pdf"
+    },
+    "modified": "2024-03-21T17:51:58",
+    "modified_gmt": "2024-03-21T20:51:58",
+    "slug": "fu_doc_electromovilidad_3",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/politicas-de-transicion-a-la-electromovilidad/fu_doc_electromovilidad_3/",
+    "title": {
+        "rendered": "FU_DOC_Electromovilidad_3"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-14294",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2024/03/FU_DOC_Electromovilidad_3.pdf'>FU_DOC_Electromovilidad_3</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>FU_DOC_Electromovilidad_3</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 856120,
+        "sizes": {}
+    },
+    "post": 14244,
+    "source_url": "https://fund.ar/wp-content/uploads/2024/03/FU_DOC_Electromovilidad_3.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/14294"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=14294"
+            }
+        ]
+    }
+}

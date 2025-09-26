@@ -1,0 +1,107 @@
+{
+    "id": 1789,
+    "date": "2022-06-22T10:39:45",
+    "date_gmt": "2022-06-22T13:39:45",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2022/05/Fundar_Policy_Aborto_-Vacarezza.pdf"
+    },
+    "modified": "2022-06-22T10:39:45",
+    "modified_gmt": "2022-06-22T13:39:45",
+    "slug": "fundar_policy_aborto_-vacarezza",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/aborto-prestadores-de-servicios/fundar_policy_aborto_-vacarezza/",
+    "title": {
+        "rendered": "Fundar_Policy_Aborto_ Vacarezza"
+    },
+    "author": 5,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-1789",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2022/05/Fundar_Policy_Aborto_-Vacarezza.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2022/05/Fundar_Policy_Aborto_-Vacarezza-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Fundar_Policy_Aborto_-Vacarezza-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/05/Fundar_Policy_Aborto_-Vacarezza-pdf.jpg"
+            },
+            "medium": {
+                "file": "Fundar_Policy_Aborto_-Vacarezza-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/05/Fundar_Policy_Aborto_-Vacarezza-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Fundar_Policy_Aborto_-Vacarezza-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/05/Fundar_Policy_Aborto_-Vacarezza-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Fundar_Policy_Aborto_-Vacarezza-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/05/Fundar_Policy_Aborto_-Vacarezza-pdf-106x150.jpg"
+            }
+        }
+    },
+    "post": 1713,
+    "source_url": "https://fund.ar/wp-content/uploads/2022/05/Fundar_Policy_Aborto_-Vacarezza.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/1789"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/5"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=1789"
+            }
+        ]
+    }
+}

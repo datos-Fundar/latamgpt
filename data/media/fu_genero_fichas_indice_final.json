@@ -1,0 +1,111 @@
+{
+    "id": 6882,
+    "date": "2023-03-07T16:13:59",
+    "date_gmt": "2023-03-07T19:13:59",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/03/FU_Genero_Fichas_Indice_Final.pdf"
+    },
+    "modified": "2023-03-07T16:13:59",
+    "modified_gmt": "2023-03-07T19:13:59",
+    "slug": "fu_genero_fichas_indice_final",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/indice-genero-decision-representacion/fu_genero_fichas_indice_final/",
+    "title": {
+        "rendered": "FU_Genero_Fichas_Indice_Final"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-6882",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/03/FU_Genero_Fichas_Indice_Final.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"169\" src=\"https://fund.ar/wp-content/uploads/2023/03/FU_Genero_Fichas_Indice_Final-pdf-300x169.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "FU_Genero_Fichas_Indice_Final-pdf.jpg",
+                "width": 3413,
+                "height": 1920,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2023/03/FU_Genero_Fichas_Indice_Final-pdf.jpg"
+            },
+            "medium": {
+                "file": "FU_Genero_Fichas_Indice_Final-pdf-300x169.jpg",
+                "width": 300,
+                "height": 169,
+                "filesize": 64948,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2023/03/FU_Genero_Fichas_Indice_Final-pdf-300x169.jpg"
+            },
+            "large": {
+                "file": "FU_Genero_Fichas_Indice_Final-pdf-1024x576.jpg",
+                "width": 1024,
+                "height": 576,
+                "filesize": 86548,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2023/03/FU_Genero_Fichas_Indice_Final-pdf-1024x576.jpg"
+            },
+            "thumbnail": {
+                "file": "FU_Genero_Fichas_Indice_Final-pdf-150x84.jpg",
+                "width": 150,
+                "height": 84,
+                "filesize": 62568,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2023/03/FU_Genero_Fichas_Indice_Final-pdf-150x84.jpg"
+            }
+        },
+        "filesize": 1301236
+    },
+    "post": 6881,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/03/FU_Genero_Fichas_Indice_Final.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/6882"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=6882"
+            }
+        ]
+    }
+}

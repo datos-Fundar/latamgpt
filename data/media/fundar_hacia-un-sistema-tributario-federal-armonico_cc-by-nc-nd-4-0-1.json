@@ -1,0 +1,79 @@
+{
+    "id": 14003,
+    "date": "2024-03-07T12:13:34",
+    "date_gmt": "2024-03-07T15:13:34",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2024/02/Fundar_Hacia-un-sistema-tributario-federal-armonico_CC-BY-NC-ND-4.0-1-1.pdf"
+    },
+    "modified": "2024-03-07T12:13:34",
+    "modified_gmt": "2024-03-07T15:13:34",
+    "slug": "fundar_hacia-un-sistema-tributario-federal-armonico_cc-by-nc-nd-4-0-1",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/hacia-un-sistema-tributario-armonico/fundar_hacia-un-sistema-tributario-federal-armonico_cc-by-nc-nd-4-0-1/",
+    "title": {
+        "rendered": "Fundar_Hacia-un-sistema-tributario-federal-armonico_CC-BY-NC-ND-4.0-1"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-14003",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2024/02/Fundar_Hacia-un-sistema-tributario-federal-armonico_CC-BY-NC-ND-4.0-1-1.pdf'>Fundar_Hacia-un-sistema-tributario-federal-armonico_CC-BY-NC-ND-4.0-1</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Hacia-un-sistema-tributario-federal-armonico_CC-BY-NC-ND-4.0-1</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 974906,
+        "sizes": {}
+    },
+    "post": 13047,
+    "source_url": "https://fund.ar/wp-content/uploads/2024/02/Fundar_Hacia-un-sistema-tributario-federal-armonico_CC-BY-NC-ND-4.0-1-1.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/14003"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=14003"
+            }
+        ]
+    }
+}

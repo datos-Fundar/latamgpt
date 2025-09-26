@@ -1,0 +1,111 @@
+{
+    "id": 3955,
+    "date": "2022-09-20T15:40:33",
+    "date_gmt": "2022-09-20T18:40:33",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2022/09/Fundar_Exportar_GNL.pdf"
+    },
+    "modified": "2022-09-20T15:40:33",
+    "modified_gmt": "2022-09-20T18:40:33",
+    "slug": "fundar_exportar_gnl",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/exportar-gnl-un-marco-regulatorio/fundar_exportar_gnl/",
+    "title": {
+        "rendered": "Fundar_Exportar_GNL"
+    },
+    "author": 11,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-3955",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2022/09/Fundar_Exportar_GNL.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2022/09/Fundar_Exportar_GNL-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Fundar_Exportar_GNL-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_Exportar_GNL-pdf.jpg"
+            },
+            "medium": {
+                "file": "Fundar_Exportar_GNL-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "filesize": 8887,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_Exportar_GNL-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Fundar_Exportar_GNL-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "filesize": 33008,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_Exportar_GNL-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Fundar_Exportar_GNL-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "filesize": 5013,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_Exportar_GNL-pdf-106x150.jpg"
+            }
+        },
+        "filesize": 457005
+    },
+    "post": 3953,
+    "source_url": "https://fund.ar/wp-content/uploads/2022/09/Fundar_Exportar_GNL.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/3955"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/11"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=3955"
+            }
+        ]
+    }
+}

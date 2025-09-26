@@ -1,0 +1,107 @@
+{
+    "id": 1232,
+    "date": "2021-11-03T10:15:36",
+    "date_gmt": "2021-11-03T13:15:36",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2021/11/Fundar-Caja-de-herramientas-El-sistema-de-salud-argentino-en-imagenes.pdf"
+    },
+    "modified": "2021-11-03T10:38:40",
+    "modified_gmt": "2021-11-03T13:38:40",
+    "slug": "fundar-caja-de-herramientas-el-sistema-de-salud-argentino-en-imagenes",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/el-sistema-de-salud-argentino-en-imagenes/fundar-caja-de-herramientas-el-sistema-de-salud-argentino-en-imagenes/",
+    "title": {
+        "rendered": "Fundar &#8211; Caja de herramientas &#8211; El sistema de salud argentino en imagenes"
+    },
+    "author": 5,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-1232",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2021/11/Fundar-Caja-de-herramientas-El-sistema-de-salud-argentino-en-imagenes.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"242\" src=\"https://fund.ar/wp-content/uploads/2021/11/Fundar-Caja-de-herramientas-El-sistema-de-salud-argentino-en-imagenes-pdf-300x242.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Fundar-Caja-de-herramientas-El-sistema-de-salud-argentino-en-imagenes-pdf.jpg",
+                "width": 1920,
+                "height": 1551,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/11/Fundar-Caja-de-herramientas-El-sistema-de-salud-argentino-en-imagenes-pdf.jpg"
+            },
+            "medium": {
+                "file": "Fundar-Caja-de-herramientas-El-sistema-de-salud-argentino-en-imagenes-pdf-300x242.jpg",
+                "width": 300,
+                "height": 242,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/11/Fundar-Caja-de-herramientas-El-sistema-de-salud-argentino-en-imagenes-pdf-300x242.jpg"
+            },
+            "large": {
+                "file": "Fundar-Caja-de-herramientas-El-sistema-de-salud-argentino-en-imagenes-pdf-1024x827.jpg",
+                "width": 1024,
+                "height": 827,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/11/Fundar-Caja-de-herramientas-El-sistema-de-salud-argentino-en-imagenes-pdf-1024x827.jpg"
+            },
+            "thumbnail": {
+                "file": "Fundar-Caja-de-herramientas-El-sistema-de-salud-argentino-en-imagenes-pdf-150x121.jpg",
+                "width": 150,
+                "height": 121,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/11/Fundar-Caja-de-herramientas-El-sistema-de-salud-argentino-en-imagenes-pdf-150x121.jpg"
+            }
+        }
+    },
+    "post": 720,
+    "source_url": "https://fund.ar/wp-content/uploads/2021/11/Fundar-Caja-de-herramientas-El-sistema-de-salud-argentino-en-imagenes.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/1232"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/5"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=1232"
+            }
+        ]
+    }
+}

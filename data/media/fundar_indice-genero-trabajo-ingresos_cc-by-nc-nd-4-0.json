@@ -1,0 +1,79 @@
+{
+    "id": 10778,
+    "date": "2023-11-15T16:30:40",
+    "date_gmt": "2023-11-15T19:30:40",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/11/Fundar_Indice-Genero-Trabajo-Ingresos_CC-BY-NC-ND-4.0-1.pdf"
+    },
+    "modified": "2023-11-15T16:30:40",
+    "modified_gmt": "2023-11-15T19:30:40",
+    "slug": "fundar_indice-genero-trabajo-ingresos_cc-by-nc-nd-4-0",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/indice-de-genero-trabajo-e-ingresos/fundar_indice-genero-trabajo-ingresos_cc-by-nc-nd-4-0/",
+    "title": {
+        "rendered": "Fundar_Indice-Genero-Trabajo-Ingresos_CC-BY-NC-ND-4.0"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-10778",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/11/Fundar_Indice-Genero-Trabajo-Ingresos_CC-BY-NC-ND-4.0-1.pdf'>Fundar_Indice-Genero-Trabajo-Ingresos_CC-BY-NC-ND-4.0</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Indice-Genero-Trabajo-Ingresos_CC-BY-NC-ND-4.0</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 2871640,
+        "sizes": {}
+    },
+    "post": 10562,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/11/Fundar_Indice-Genero-Trabajo-Ingresos_CC-BY-NC-ND-4.0-1.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/10778"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=10778"
+            }
+        ]
+    }
+}

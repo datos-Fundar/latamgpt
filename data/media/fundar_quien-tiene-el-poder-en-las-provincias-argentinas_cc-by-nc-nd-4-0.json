@@ -1,0 +1,79 @@
+{
+    "id": 10347,
+    "date": "2023-10-25T16:12:38",
+    "date_gmt": "2023-10-25T19:12:38",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2023/03/Fundar_Quien-tiene-el-poder-en-las-provincias-argentinas_CC-BY-NC-ND-4.0.pdf"
+    },
+    "modified": "2023-10-25T16:12:38",
+    "modified_gmt": "2023-10-25T19:12:38",
+    "slug": "fundar_quien-tiene-el-poder-en-las-provincias-argentinas_cc-by-nc-nd-4-0",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/indice-genero-decision-representacion/fundar_quien-tiene-el-poder-en-las-provincias-argentinas_cc-by-nc-nd-4-0/",
+    "title": {
+        "rendered": "Fundar_Quien-tiene-el-poder-en-las-provincias-argentinas_CC-BY-NC-ND-4.0"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-10347",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2023/03/Fundar_Quien-tiene-el-poder-en-las-provincias-argentinas_CC-BY-NC-ND-4.0.pdf'>Fundar_Quien-tiene-el-poder-en-las-provincias-argentinas_CC-BY-NC-ND-4.0</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Quien-tiene-el-poder-en-las-provincias-argentinas_CC-BY-NC-ND-4.0</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 2450129,
+        "sizes": {}
+    },
+    "post": 6881,
+    "source_url": "https://fund.ar/wp-content/uploads/2023/03/Fundar_Quien-tiene-el-poder-en-las-provincias-argentinas_CC-BY-NC-ND-4.0.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/10347"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=10347"
+            }
+        ]
+    }
+}

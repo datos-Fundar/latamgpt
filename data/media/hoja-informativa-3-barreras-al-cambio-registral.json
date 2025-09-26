@@ -1,0 +1,107 @@
+{
+    "id": 1660,
+    "date": "2022-05-10T10:28:55",
+    "date_gmt": "2022-05-10T13:28:55",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2022/05/Hoja-Informativa-3-Barreras-al-cambio-registral.pdf"
+    },
+    "modified": "2022-05-10T10:28:55",
+    "modified_gmt": "2022-05-10T13:28:55",
+    "slug": "hoja-informativa-3-barreras-al-cambio-registral",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/barreras-al-cambio-registral-identidades-informadas/hoja-informativa-3-barreras-al-cambio-registral/",
+    "title": {
+        "rendered": "Hoja-Informativa-3-Barreras-al-cambio-registral"
+    },
+    "author": 5,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-1660",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2022/05/Hoja-Informativa-3-Barreras-al-cambio-registral.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2022/05/Hoja-Informativa-3-Barreras-al-cambio-registral-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Hoja-Informativa-3-Barreras-al-cambio-registral-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/05/Hoja-Informativa-3-Barreras-al-cambio-registral-pdf.jpg"
+            },
+            "medium": {
+                "file": "Hoja-Informativa-3-Barreras-al-cambio-registral-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/05/Hoja-Informativa-3-Barreras-al-cambio-registral-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Hoja-Informativa-3-Barreras-al-cambio-registral-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/05/Hoja-Informativa-3-Barreras-al-cambio-registral-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Hoja-Informativa-3-Barreras-al-cambio-registral-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2022/05/Hoja-Informativa-3-Barreras-al-cambio-registral-pdf-106x150.jpg"
+            }
+        }
+    },
+    "post": 1655,
+    "source_url": "https://fund.ar/wp-content/uploads/2022/05/Hoja-Informativa-3-Barreras-al-cambio-registral.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/1660"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/5"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=1660"
+            }
+        ]
+    }
+}

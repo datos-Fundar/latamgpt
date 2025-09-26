@@ -1,0 +1,107 @@
+{
+    "id": 1376,
+    "date": "2021-12-16T15:13:18",
+    "date_gmt": "2021-12-16T18:13:18",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2021/12/Fundar-CIAS-Mapa-de-las-politicas-sociales-en-la-Argentina.pdf"
+    },
+    "modified": "2021-12-16T15:13:18",
+    "modified_gmt": "2021-12-16T18:13:18",
+    "slug": "fundar-cias-mapa-de-las-politicas-sociales-en-la-argentina",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/mapa-politicas-sociales-2021/fundar-cias-mapa-de-las-politicas-sociales-en-la-argentina/",
+    "title": {
+        "rendered": "Fundar CIAS &#8211; Mapa de las pol\u00edticas sociales en la Argentina"
+    },
+    "author": 8,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-1376",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2021/12/Fundar-CIAS-Mapa-de-las-politicas-sociales-en-la-Argentina.pdf'><img loading=\"lazy\" decoding=\"async\" width=\"212\" height=\"300\" src=\"https://fund.ar/wp-content/uploads/2021/12/Fundar-CIAS-Mapa-de-las-politicas-sociales-en-la-Argentina-pdf-212x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+        "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "sizes": {
+            "full": {
+                "file": "Fundar-CIAS-Mapa-de-las-politicas-sociales-en-la-Argentina-pdf.jpg",
+                "width": 1058,
+                "height": 1497,
+                "mime_type": "application/pdf",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/12/Fundar-CIAS-Mapa-de-las-politicas-sociales-en-la-Argentina-pdf.jpg"
+            },
+            "medium": {
+                "file": "Fundar-CIAS-Mapa-de-las-politicas-sociales-en-la-Argentina-pdf-212x300.jpg",
+                "width": 212,
+                "height": 300,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/12/Fundar-CIAS-Mapa-de-las-politicas-sociales-en-la-Argentina-pdf-212x300.jpg"
+            },
+            "large": {
+                "file": "Fundar-CIAS-Mapa-de-las-politicas-sociales-en-la-Argentina-pdf-724x1024.jpg",
+                "width": 724,
+                "height": 1024,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/12/Fundar-CIAS-Mapa-de-las-politicas-sociales-en-la-Argentina-pdf-724x1024.jpg"
+            },
+            "thumbnail": {
+                "file": "Fundar-CIAS-Mapa-de-las-politicas-sociales-en-la-Argentina-pdf-106x150.jpg",
+                "width": 106,
+                "height": 150,
+                "mime_type": "image/jpeg",
+                "source_url": "https://fund.ar/wp-content/uploads/2021/12/Fundar-CIAS-Mapa-de-las-politicas-sociales-en-la-Argentina-pdf-106x150.jpg"
+            }
+        }
+    },
+    "post": 1365,
+    "source_url": "https://fund.ar/wp-content/uploads/2021/12/Fundar-CIAS-Mapa-de-las-politicas-sociales-en-la-Argentina.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/1376"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/8"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=1376"
+            }
+        ]
+    }
+}

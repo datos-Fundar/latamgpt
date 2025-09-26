@@ -1,0 +1,79 @@
+{
+    "id": 24741,
+    "date": "2025-02-10T16:51:28",
+    "date_gmt": "2025-02-10T19:51:28",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2025/01/Fundar_Guia-practica-para-la-clasificacion-de-datos_Titulo_CC-BY-NC-ND-4.0-1.pdf"
+    },
+    "modified": "2025-02-10T16:51:28",
+    "modified_gmt": "2025-02-10T19:51:28",
+    "slug": "fundar_guia-practica-para-la-clasificacion-de-datos_titulo_cc-by-nc-nd-4-0",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/guia-practica-para-la-clasificacion-de-datos/fundar_guia-practica-para-la-clasificacion-de-datos_titulo_cc-by-nc-nd-4-0/",
+    "title": {
+        "rendered": "Fundar_Guia-practica-para-la-clasificacion-de-datos_Titulo_CC-BY-NC-ND-4.0"
+    },
+    "author": 14,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-24741",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2025/01/Fundar_Guia-practica-para-la-clasificacion-de-datos_Titulo_CC-BY-NC-ND-4.0-1.pdf'>Fundar_Guia-practica-para-la-clasificacion-de-datos_Titulo_CC-BY-NC-ND-4.0</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Guia-practica-para-la-clasificacion-de-datos_Titulo_CC-BY-NC-ND-4.0</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 501912,
+        "sizes": {}
+    },
+    "post": 24570,
+    "source_url": "https://fund.ar/wp-content/uploads/2025/01/Fundar_Guia-practica-para-la-clasificacion-de-datos_Titulo_CC-BY-NC-ND-4.0-1.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/24741"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/14"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=24741"
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "id": 14121,
+    "date": "2024-03-14T16:36:48",
+    "date_gmt": "2024-03-14T19:36:48",
+    "guid": {
+        "rendered": "https://fund.ar/wp-content/uploads/2024/03/Fundar_Movilidad-social-para-una-Argentina-con-igualdad-de-oportunidades_CC-BY-NC-ND-4.0.pdf"
+    },
+    "modified": "2024-03-14T16:36:48",
+    "modified_gmt": "2024-03-14T19:36:48",
+    "slug": "fundar_movilidad-social-para-una-argentina-con-igualdad-de-oportunidades_cc-by-nc-nd-4-0",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://fund.ar/publicacion/movilidad-social-para-una-argentina-con-igualdad-de-oportunidades/fundar_movilidad-social-para-una-argentina-con-igualdad-de-oportunidades_cc-by-nc-nd-4-0/",
+    "title": {
+        "rendered": "Fundar_Movilidad-social-para-una-Argentina-con-igualdad-de-oportunidades_CC-BY-NC-ND 4.0"
+    },
+    "author": 12,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+        "_acf_changed": false,
+        "_links_to": "",
+        "_links_to_target": ""
+    },
+    "class_list": [
+        "post-14121",
+        "attachment",
+        "type-attachment",
+        "status-inherit",
+        "hentry"
+    ],
+    "acf": [],
+    "description": {
+        "rendered": "<p class=\"attachment\"><a href='https://fund.ar/wp-content/uploads/2024/03/Fundar_Movilidad-social-para-una-Argentina-con-igualdad-de-oportunidades_CC-BY-NC-ND-4.0.pdf'>Fundar_Movilidad-social-para-una-Argentina-con-igualdad-de-oportunidades_CC-BY-NC-ND 4.0</a></p>\n"
+    },
+    "caption": {
+        "rendered": "<p>Fundar_Movilidad-social-para-una-Argentina-con-igualdad-de-oportunidades_CC-BY-NC-ND 4.0</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "file",
+    "mime_type": "application/pdf",
+    "media_details": {
+        "filesize": 4357835,
+        "sizes": {}
+    },
+    "post": 14075,
+    "source_url": "https://fund.ar/wp-content/uploads/2024/03/Fundar_Movilidad-social-para-una-Argentina-con-igualdad-de-oportunidades_CC-BY-NC-ND-4.0.pdf",
+    "_links": {
+        "self": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media/14121"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/media"
+            }
+        ],
+        "about": [
+            {
+                "href": "https://fund.ar/wp-json/wp/v2/types/attachment"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/users/12"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https://fund.ar/wp-json/wp/v2/comments?post=14121"
+            }
+        ]
+    }
+}
