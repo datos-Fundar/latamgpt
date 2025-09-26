@@ -1,0 +1,39 @@
+## Aborto legal: hacia políticas públicas basadas en las perspectivas de los y las prestadoras de servicios dentro y fuera del sistema de salud
+
+Nayla Luz Vacarezza
+
+Desde 2007, la adopción de protocolos para el acceso al aborto en los casos permitidos por la ley contribuyó a una gradual ampliación de servicios en el sistema de salud. Gracias a iniciativas feministas, el acceso al aborto seguro también se amplió por fuera del sistema. Luego de décadas de movilización social, en 2020, el Congreso Nacional sancionó la Ley 27610 de Acceso a la Interrupción Voluntaria del Embarazo (IVE), que abrió un nuevo horizonte de desafíos y oportunidades.
+
+Quienes trabajan por el acceso al aborto, tanto dentro como fuera del sistema de salud, son agentes cruciales para fortalecer la implementación de la ley IVE. Apoyar a quienes brindan servicios dentro del sistema de salud es importante si se desea expandir el acceso. La calidad de los servicios también debe ser una prioridad. Es importante seguir fortaleciendo las instancias de colaboración con la sociedad civil para asegurar la continuidad de las políticas públicas de aborto en contextos políticos cambiantes y frente a reacciones conservadoras.
+
+## MENSAJES CLAVE
+
+- Los datos disponibles sobre la implementación de la Ley IVE hasta ahora solo permiten considerar lo que sucede en el sistema público de salud. Sería importante producir evidencias que permitan estudiar el proceso de implementación en los otros subsistemas de salud.
+- La disparidad geográfica de los servicios genera importantes desigualdades en el acceso a abortos legales . Datos del Proyecto Mirar muestran que, mientras que la tasa nacional de aborto es 3,2 por cada mil mujeres en edad reproductiva, algunas provincias poseen tasas sorprendentemente bajas, como Corrientes, Formosa, Misiones, San Juan y Chaco.
+- Las políticas públicas acerca del aborto en Argentina no comienzan con la legalización. En diciembre de 2020, antes de la sanción de la norma, ya había 907 efectores del sistema público de salud que brindaban acceso al aborto. Su trabajo continúa siendo crucial en esta etapa. El número de efectores creció a 1164 en mayo de 2021 y a 1347 en diciembre de 2021. Ese incremento es el resultado del trabajo de la Dirección Nacional de Salud Sexual y Reproductiva (DNSSR) desde la legalización.
+- Las estrategias de aborto autónomo y feminista como las impulsadas por Socorristas en Red (Feministas que abortamos) han sido fundamentales para la desestigmatización y la expansión del acceso antes de la legalización. Luego del cambio legal, el activismo continúa cumpliendo un rol clave: facilita el acceso a quienes no quieren o no pueden acudir al sistema formal de salud, ofrece información y acompañamiento para quienes desean abortar en el sistema formal de salud, y exige el cumplimiento efectivo de derechos allí donde es necesario.
+- Aun cuando la legalización legitimó y brindó mayor seguridad a los/as profesionales del sistema de salud, existen preocupaciones relacionadas con el estrés ocupacional que afrontan. La sobrecarga de trabajo se hizo más fuerte durante la pandemia del COVID-19 y, en contextos adversos, sienten el peso del estigma en su trabajo.
+- Quienes aseguran el acceso a abortos dentro y fuera del sistema de salud consideran que aumentar el acceso a servicios es tan importante como mejorar su calidad. El nuevo marco legal es percibido como una oportunidad para elevar los estándares de calidad y para consolidar modelos integrales de cuidado , donde la excelencia técnica se combine con interacciones personales horizontales y centradas en las necesidades de quienes reciben atención.
+- Las articulaciones entre el Estado y las organizaciones de la sociedad civil han sido centrales para las políticas públicas sobre aborto antes y después de la legalización. Una sociedad civil activa y organizada es el reaseguro más importante para continuar avanzando y evitar retrocesos.
+
+## Aportes de políticas públicas
+
+1. Reducir la disparidad geográfica en los servicios. El Gobierno nacional podría enviar a las provincias grupos especiales dedicados a la creación de nuevos equipos de salud. Hacer un seguimiento de estos equipos, brindar apoyo técnico y dedicar recursos a promover su bienestar es crucial para que estas intervenciones sean exitosas. También podría proveer apoyo y mentorías a quienes son responsables del Programa de Salud Sexual y Reproductiva en las provincias más problemáticas. Finalmente, es vital continuar difundiendo la ley y profundizar la participación de la sociedad civil en la implementación.
+2. Invertir en el bienestar de las y los profesionales que prestan servicios debe ser una prioridad. Es importante trabajar a nivel provincial para mejorar las condiciones de trabajo de los/as profesionales que prestan servicios de aborto teniendo en cuenta el desgaste mental, físico y emocional que conlleva este trabajo. Se podrían jerarquizar las posiciones laborales de quienes brindan servicios, disminuir las horas de trabajo u ofrecer días libres para favorecer el descanso, la capacitación profesional o la dedicación a actividades de bienestar.
+3. Aprovechar la legalización como una oportunidad para consolidar y ofrecer al mundo modelos innovadores de atención de calidad. Es fundamental mantener los esfuerzos del Gobierno nacional destinados a capacitar al personal de salud, proveer equipamiento adecuado y brindar una provisión constante de insumos. En ese sentido, es importante que se apruebe y se distribuya mifepristona , un medicamento indispensable para proveer abortos
+
+medicamentosos de la mejor calidad. También es necesario incrementar la capacidad para ofrecer servicios de Aspiración Manual Endouterina en el primer nivel de atención. Las acciones de rectoría del Gobierno nacional sobre la calidad de atención del aborto se podrían beneficiar de la experiencia de activistas y profesionales que han desarrollado modelos innovadores de cuidado integral centrados en quien recibe atención. La escucha atenta y desprejuiciada, el apoyo emocional y el respeto por las decisiones de quien aborta son los pilares de estos modelos de atención emergentes con potencial para transformar las maneras en que se ofrecen cuidados en el campo de salud sexual y reproductiva.
+
+4. Potenciar las sinergias entre el sistema de salud y las organizaciones feministas. Las sinergias entre quienes facilitan el acceso al aborto dentro y fuera del sistema de salud han sido destacadas como una ventaja estratégica de Argentina. Para fortalecer estas sinergias, las gestiones a nivel nacional y provincial podrían ofrecer a las organizaciones de activistas oportunidades de capacitación y asistencia técnica que fortalezcan su activismo en cuanto a la salud reproductiva en clave comunitaria. Los y las profesionales podrían beneficiarse de los saberes desarrollados por activistas feministas del aborto autónomo. Sus conocimientos sobre el acompañamiento de aborto con medicamentos y sus modelos de cuidado podrían enriquecer las perspectivas médicas.
+
+El contenido de este policy brief es el resultado del trabajo realizado por la autora en el marco de la beca Fundar-ILAS Columbia, y contó con el apoyo del Área de Géneros de Fundar.
+
+Para seguir leyendo
+
+Braine, N. 2020. ' Autonomous Health Movements. Criminalization, De-Medicalization, and Community-Based Direct Action '. Health and Human Rights 22(2).
+
+Romero M., Ramos S., Ramón Michel A., Keefe-Oates B., Rizzalli E. 2021. Proyecto Mirar: A un año de la ley de aborto en Argentina . Ciudad Autónoma de Buenos Aires: CEDES; Ibis Reproductive Health.
+
+Yanow, S., L. Berro Pizzarossa, K. Jelinska. 2021. ' Self-Managed Abortion: Exploring Synergies Between Institutional Medical Systems and Autonomous Health Movements ', Contraception.
+
+<!-- image -->

@@ -1,0 +1,39 @@
+## Vaca Muerta: un nuevo marco regulatorio para el desarrollo pleno de sus recursos
+
+La falta de autoabastecimiento energético de la Argentina se ha vuelto un problema que excede la cuestión sectorial: la necesidad de importar hidrocarburos afecta severamente el orden macroeconómico. No obstante, el sector energético argentino presenta un gran potencial a partir de los recursos no convencionales de Vaca Muerta, que debe ser aprovechado con urgencia: la ventana de oportunidad es acotada, puesto que la transición energética hacia fuentes renovables es un proceso global en marcha.
+
+## MENSAJES CLAVE
+
+- Para que el sector energético ocupe un rol clave en el desarrollo económico y en la superación de la crónica restricción externa, Argentina debe superar las limitaciones que han afectado cíclicamente al sector y que comprimieron los niveles de inversión a lo largo de las últimas décadas.
+- El desarrollo pleno de los recursos existentes en Vaca Muerta permitiría revertir la restricción externa de carácter estructural que experimentó la Argentina en las últimas décadas. El desarrollo de solo el 50% de los recursos implicaría exportaciones de hidrocarburos por más de 33.000 MUSD a lo largo de las próximas cinco décadas.
+- La persistencia de un desacople significativo en el precio de los hidrocarburos en el mercado local respecto del mercado internacional ha sido la principal causa -ciertamente no la única, pero sí la principal- de la reducción de los niveles de inversión a lo largo de las últimas décadas. Menor inversión significa, por supuesto, menor producción.
+- El precio de los hidrocarburos a nivel local debe mantener una relación con los precios internacionales. Las estrategias de corto plazo que han insistido en el desacople como una política de Estado para el sector energético han mostrado evidentes señales de agotamiento, y han contribuido al desarreglo fiscal de la última década. Solo se podrá acceder a combustibles baratos en el mercado local una vez que se alcance un sustantivo incremento en los niveles de producción y, con ello, de las exportaciones.
+- Vaca Muerta es una oportunidad fenomenal, se ha dicho en incontables ocasiones. No obstante, la cuenca neuquina compite con otras cuencas productivas a nivel mundial de igual o mayor potencial, y con condiciones naturales y económicas más proclives a la explotación de esos recursos. Argentina no nació para ser un gran exportador de hidrocarburos: convertirnos en ese actor productivo de escala planetaria requiere de un aumento capital de la inversión, tanto doméstica como externa.
+- El desarrollo masivo de la producción hidrocarburífera en la Argentina requiere, como lo indica la historia reciente, de una YPF fuerte. El mismo razonamiento respecto al desacople entre los precios del mercado local e internacional le cabe a nuestra empresa insignia: si el desacople es muy grande, la inversión y la producción se resienten.
+
+<!-- image -->
+
+## Vaca Muerta: un nuevo marco regulatorio para el desarrollo pleno de sus recursos
+
+La coyuntura internacional, con la suba de los precios de los hidrocarburos, ha agudizado lo que ya era un problema grave: la necesidad de importar gas para satisfacer la demanda interna. No obstante, la Argentina está en condiciones de alcanzar el autoabastecimiento energético en un período corto de tiempo, y también de desarrollar sustantivamente sus exportaciones: solo con los recursos hidrocarburíferos no convencionales de Vaca Muerta, nuestro país podría abastecer la demanda local por casi un siglo en el caso de petróleo, y por dos para el gas natural.
+
+## APORTES DE POLÍTICAS PÚBLICAS
+
+- Conformar una política de Estado de largo plazo en materia hidrocarburífera que aísle de la volatilidad macroeconómica a Vaca Muerta y haga viable un aumento sustantivo en los niveles de inversión.
+- Detener el péndulo . El desarrollo de los recursos hidrocarburíferos requiere de la conformación de una política hidrocarburífera con amplios consensos, que permita quebrar la política pública de carácter pendular en materia energética verificada en las últimas décadas.
+- Conformar un nuevo marco regulatorio que defina taxativamente los precios de comercialización de los hidrocarburos: es imprescindible definir una regla que asocie el precio local al internacional.
+
+## Para seguir leyendo
+
+Este informe se desprende de:  Arceo, Nicolás; Bersten, Lara y Wainer, Andrés (2022). La evolución del sector de hidrocarburos. Potencialidades de la matriz energética argentina. Buenos Aires: Fundar. Disponible en Fundar
+
+Azpiazu, D., y Basualdo, E. (2004). Las privatizaciones en la Argentina. Génesis, desarrollo y principales impactos estructurales . In J. Petras y H. Veltmeyer (Eds.), Las privatizaciones y la desnacionalización en América Latina. Prometeo.
+
+Braun, O., y Joy, L. (1981). Un modelo de estancamiento económico - un estudio de caso sobre la economía argentina. Desarrollo Económico, 20(80), 585-604.
+
+Kozulj, R. (2015). El sector energético argentino. Un análisis integrado de sus problemas, impactos y desafíos macroeconómicos. Universidad Nacional de Río Negro.
+
+- En esa línea, conformar un sendero de precios y acceso al mercado único libre de cambios (MULC) que permita una disminución progresiva en la brecha entre los precios locales e internacionales de los hidrocarburos a fin de dinamizar los niveles de inversión.
+- El Estado argentino debe regular a través de los instrumentos legislativos que tiene a disposición -por ejemplo las retenciones móviles- el precio de los hidrocarburos en el mercado local, a fin de proteger a los consumidores locales de las sensibles oscilaciones que se verifican en el mercado internacional. Pero esto no puede implicar un desacople significativo ni persistente entre los precios locales y los vigentes en el mercado internacional.
+
+<!-- image -->
